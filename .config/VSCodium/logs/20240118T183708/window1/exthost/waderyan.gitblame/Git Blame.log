@@ -1,0 +1,4 @@
+2024-01-18 18:37:12.502 [info] git rev-parse --git-dir
+2024-01-18 18:37:12.502 [info] git rev-parse --git-dir
+2024-01-18 18:37:12.502 [info] git blame -C --incremental -- /home/lucas/.config/ranger/rc.conf
+2024-01-18 18:37:12.502 [info] Blamed "/home/lucas/.config/ranger/rc.conf"

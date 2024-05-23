@@ -1,0 +1,7 @@
+{
+    "workbench.colorTheme": "Bearded Theme Coffee Reversed",
+    "workbench.startupEditor": "none",
+    "security.workspace.trust.untrustedFiles": "open",
+    "security.workspace.trust.enabled": false,
+    "window.openFilesInNewWindow": "on"
+}

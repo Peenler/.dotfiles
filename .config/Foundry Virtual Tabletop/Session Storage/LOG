@@ -1,0 +1,17 @@
+2024/05/12-08:49:30.180 ac4c6 Reusing MANIFEST /home/lucas/.config/Foundry Virtual Tabletop/Session Storage/MANIFEST-000001
+2024/05/12-08:49:30.181 ac4c6 Recovering log #54
+2024/05/12-08:49:30.182 ac4c6 Level-0 table #57: started
+2024/05/12-08:49:30.187 ac4c6 Level-0 table #57: 26983 bytes OK
+2024/05/12-08:49:30.190 ac4c6 Delete type=0 #54
+2024/05/12-09:00:55.846 afc17 Level-0 table #60: started
+2024/05/12-09:00:55.850 afc17 Level-0 table #60: 27805 bytes OK
+2024/05/12-09:00:55.856 afc17 Delete type=0 #58
+2024/05/12-09:00:55.856 afc17 Compacting 4@0 + 1@1 files
+2024/05/12-09:00:55.863 afc17 Generated table #61@0: 3239 keys, 136346 bytes
+2024/05/12-09:00:55.863 afc17 Compacted 4@0 + 1@1 files => 136346 bytes
+2024/05/12-09:00:55.867 afc17 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/05/12-09:00:55.867 afc17 Delete type=2 #52
+2024/05/12-09:00:55.867 afc17 Delete type=2 #57
+2024/05/12-09:00:55.867 afc17 Delete type=2 #55
+2024/05/12-09:00:55.867 afc17 Delete type=2 #50
+2024/05/12-09:00:55.867 afc17 Delete type=2 #60

@@ -1,0 +1,14 @@
+#input {
+  border-radius: 2;
+}
+
+#inner-box {
+  background: -webkit-repeating-linear-gradient(85deg, rgb(0,119,255) 25%, rgb(255,255,255) 25% 50%, rgb(0,30,255) 50% 75%, rgb(255,255,255) 75% 100%);
+}
+
+#outer-box {
+  padding: 4px;
+  font-size: 1.3rem;
+  font-family: "JetBrains Mono","Droid Sans Serif",serif;
+  background: -webkit-repeating-linear-gradient(85deg, rgb(0,119,255) 25%, rgb(255,255,255) 25% 50%, rgb(0,30,255) 50% 75%, rgb(255,255,255) 75% 100%);
+}

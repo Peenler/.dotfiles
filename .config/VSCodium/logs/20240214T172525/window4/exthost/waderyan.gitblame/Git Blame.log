@@ -1,0 +1,4 @@
+2024-02-14 18:42:26.895 [info] git rev-parse --git-dir
+2024-02-14 18:42:26.895 [info] git rev-parse --git-dir
+2024-02-14 18:42:26.895 [info] git blame -C --incremental -- /home/lucas/FlipperFiles/nutting.ir
+2024-02-14 18:42:26.895 [info] Blamed "/home/lucas/FlipperFiles/nutting.ir"

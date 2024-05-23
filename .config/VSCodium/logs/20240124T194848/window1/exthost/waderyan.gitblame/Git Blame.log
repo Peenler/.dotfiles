@@ -1,0 +1,4 @@
+2024-01-24 19:48:51.637 [info] git rev-parse --git-dir
+2024-01-24 19:48:51.637 [info] git rev-parse --git-dir
+2024-01-24 19:48:51.637 [info] git blame -C --incremental -- /home/lucas/.cache/.fr-X6X5H2/readme.txt
+2024-01-24 19:48:51.637 [info] Blamed "/home/lucas/.cache/.fr-X6X5H2/readme.txt"

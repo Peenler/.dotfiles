@@ -1,0 +1,71 @@
+{
+    "actionKeyBinds": {
+        "Escape": "Escape",
+        "BackQuote": "ToggleConsole",
+        "W": "MoveForwards",
+        "S": "MoveBackwards",
+        "A": "MoveLeft",
+        "D": "MoveRight",
+        "LeftArrow": "TurnLeft",
+        "RightArrow": "TurnRight",
+        "PageUp": "FloatUp",
+        "PageDown": "FloatDown",
+        "Space": "Jump",
+        "C": "Crouch",
+        "LeftControl": "Slide",
+        "LeftShift": "Run",
+        "Mouse2": "AutoRun",
+        "R": "Rest",
+        "T": "Transport",
+        "F1": "StealMode",
+        "F2": "GrabMode",
+        "F3": "InfoMode",
+        "F4": "TalkMode",
+        "F": "CastSpell",
+        "Q": "RecastSpell",
+        "E": "AbortSpell",
+        "U": "UseMagicItem",
+        "Z": "ReadyWeapon",
+        "Tab": "SwingWeapon",
+        "H": "SwitchHand",
+        "I": "Status",
+        "F5": "CharacterSheet",
+        "F6": "Inventory",
+        "Mouse0": "ActivateCenterObject",
+        "Return": "ActivateCursor",
+        "Insert": "LookUp",
+        "Delete": "LookDown",
+        "Home": "CenterView",
+        "LeftAlt": "Sneak",
+        "L": "LogBook",
+        "N": "NoteBook",
+        "M": "AutoMap",
+        "V": "TravelMap",
+        "F8": "PrintScreen",
+        "F9": "QuickSave",
+        "F11": "QuickLoad"
+    },
+    "secondaryActionKeyBinds": {
+
+    },
+    "axisActionKeyBinds": {
+        "Axis1": "MovementHorizontal",
+        "Axis2": "MovementVertical",
+        "Axis4": "CameraHorizontal",
+        "Axis5": "CameraVertical"
+    },
+    "axisActionInversions": {
+        "MovementHorizontal": "False",
+        "MovementVertical": "False",
+        "CameraHorizontal": "False",
+        "CameraVertical": "False"
+    },
+    "joystickUIKeyBinds": {
+        "JoystickButton0": "LeftClick",
+        "JoystickButton3": "RightClick",
+        "JoystickButton2": "MiddleClick",
+        "JoystickButton1": "Back"
+    },
+    "removedPrimaryActions": [],
+    "$version": "v1"
+}

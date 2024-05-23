@@ -1,0 +1,1357 @@
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/lucas/.config/discord/0.0.24/modules
+[Modules] Module installed file path: /home/lucas/.config/discord/0.0.24/modules/installed.json
+[Modules] Module download path: /home/lucas/.config/discord/0.0.24/modules/pending
+[Modules] Bootstrapping...
+[Modules] Installing discord_desktop_core@0 from /home/lucas/Downloads/Discord/resources/bootstrap/discord_desktop_core.zip
+[Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/home/lucas/Downloads/Discord/resources/bootstrap/discord_desktop_core.zip'
+[Modules] Installing discord_erlpack@0 from /home/lucas/Downloads/Discord/resources/bootstrap/discord_erlpack.zip
+[Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/home/lucas/Downloads/Discord/resources/bootstrap/discord_erlpack.zip'
+[Modules] Installing discord_spellcheck@0 from /home/lucas/Downloads/Discord/resources/bootstrap/discord_spellcheck.zip
+[Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/home/lucas/Downloads/Discord/resources/bootstrap/discord_spellcheck.zip'
+[Modules] Installing discord_utils@0 from /home/lucas/Downloads/Discord/resources/bootstrap/discord_utils.zip
+[Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/home/lucas/Downloads/Discord/resources/bootstrap/discord_utils.zip'
+[Modules] Installing discord_voice@0 from /home/lucas/Downloads/Discord/resources/bootstrap/discord_voice.zip
+[Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/home/lucas/Downloads/Discord/resources/bootstrap/discord_voice.zip'
+[Modules] Finished module installations. [success: 0] [failure: 5]
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+[Modules] Module update available: discord_desktop_core@1 [installed: 0]
+[Modules] Module update available: discord_erlpack@1 [installed: 0]
+[Modules] Module update available: discord_spellcheck@1 [installed: 0]
+[Modules] Module update available: discord_utils@1 [installed: 0]
+[Modules] Module update available: discord_voice@1 [installed: 0]
+[Modules] Fetching discord_desktop_core@1 from https://discord.com/api/modules/stable/discord_desktop_core/1
+[Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip
+[Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 1%
+[Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 2%
+[Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 3%
+[Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 4%
+[Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 5%
+[Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 7%
+[Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 8%
+[Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 10%
+[Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 11%
+[Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 12%
+[Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 13%
+[Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 14%
+[Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 15%
+[Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 16%
+[Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 20%
+[Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 21%
+[Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 24%
+[Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 28%
+[Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 31%
+[Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 35%
+[Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 37%
+[Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 41%
+[Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 42%
+[Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 44%
+[Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 47%
+[Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 51%
+[Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 54%
+[Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 56%
+[Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 61%
+[Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 65%
+[Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 68%
+[Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 72%
+[Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 75%
+[Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 82%
+[Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 84%
+[Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 89%
+[Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 93%
+[Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 96%
+[Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 99%
+[Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip: 100%
+[Modules] Fetching discord_erlpack@1 from https://discord.com/api/modules/stable/discord_erlpack/1
+[Modules] Streaming discord_erlpack@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip
+[Modules] Streaming discord_erlpack@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 1%
+[Modules] Streaming discord_erlpack@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 5%
+[Modules] Streaming discord_erlpack@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 6%
+[Modules] Streaming discord_erlpack@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 9%
+[Modules] Streaming discord_erlpack@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 13%
+[Modules] Streaming discord_erlpack@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 15%
+[Modules] Streaming discord_erlpack@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 19%
+[Modules] Streaming discord_erlpack@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 22%
+[Modules] Streaming discord_erlpack@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 26%
+[Modules] Streaming discord_erlpack@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 31%
+[Modules] Streaming discord_erlpack@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 37%
+[Modules] Streaming discord_erlpack@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 41%
+[Modules] Streaming discord_erlpack@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 48%
+[Modules] Streaming discord_erlpack@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 52%
+[Modules] Streaming discord_erlpack@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 55%
+[Modules] Streaming discord_erlpack@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 59%
+[Modules] Streaming discord_erlpack@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 62%
+[Modules] Streaming discord_erlpack@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 65%
+[Modules] Streaming discord_erlpack@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 69%
+[Modules] Streaming discord_erlpack@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 72%
+[Modules] Streaming discord_erlpack@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 76%
+[Modules] Streaming discord_erlpack@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 81%
+[Modules] Streaming discord_erlpack@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 85%
+[Modules] Streaming discord_erlpack@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 93%
+[Modules] Streaming discord_erlpack@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 97%
+[Modules] Streaming discord_erlpack@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip: 100%
+[Modules] Fetching discord_spellcheck@1 from https://discord.com/api/modules/stable/discord_spellcheck/1
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 1%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 2%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 3%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 4%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 5%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 6%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 7%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 8%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 9%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 10%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 11%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 12%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 13%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 15%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 16%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 17%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 18%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 19%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 20%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 21%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 22%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 23%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 24%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 25%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 26%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 27%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 28%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 29%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 31%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 32%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 33%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 34%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 35%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 36%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 37%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 38%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 39%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 40%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 41%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 42%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 43%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 44%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 45%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 46%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 47%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 48%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 49%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 50%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 51%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 52%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 53%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 54%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 55%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 56%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 57%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 58%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 59%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 61%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 62%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 63%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 64%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 65%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 66%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 67%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 68%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 69%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 70%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 71%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 72%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 73%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 74%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 75%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 76%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 77%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 78%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 79%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 80%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 81%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 82%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 83%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 84%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 85%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 86%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 87%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 88%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 89%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 90%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 91%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 92%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 93%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 94%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 95%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 96%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 97%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 98%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 99%
+[Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip: 100%
+[Modules] Fetching discord_utils@1 from https://discord.com/api/modules/stable/discord_utils/1
+[Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_utils-1.zip
+[Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 2%
+[Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 3%
+[Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 4%
+[Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 7%
+[Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 8%
+[Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 10%
+[Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 11%
+[Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 13%
+[Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 15%
+[Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 17%
+[Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 19%
+[Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 21%
+[Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 23%
+[Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 26%
+[Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 29%
+[Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 32%
+[Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 34%
+[Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 38%
+[Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 40%
+[Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 42%
+[Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 44%
+[Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 46%
+[Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 50%
+[Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 52%
+[Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 55%
+[Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 58%
+[Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 60%
+[Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 64%
+[Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 66%
+[Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 67%
+[Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 68%
+[Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 69%
+[Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 71%
+[Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 74%
+[Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 75%
+[Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 77%
+[Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 79%
+[Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 81%
+[Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 85%
+[Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 86%
+[Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 87%
+[Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 91%
+[Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 94%
+[Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 96%
+[Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_utils-1.zip: 100%
+[Modules] Fetching discord_voice@1 from https://discord.com/api/modules/stable/discord_voice/1
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 1%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 2%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 3%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 4%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 5%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 6%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 7%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 8%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 9%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 10%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 11%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 12%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 13%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 14%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 15%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 16%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 17%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 18%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 19%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 20%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 21%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 22%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 23%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 24%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 25%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 26%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 27%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 28%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 29%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 30%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 31%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 32%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 33%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 34%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 35%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 36%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 37%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 38%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 39%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 40%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 41%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 42%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 43%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 44%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 45%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 46%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 47%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 48%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 49%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 50%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 51%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 52%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 53%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 54%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 55%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 56%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 57%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 58%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 59%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 60%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 61%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 62%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 63%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 64%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 65%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 66%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 67%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 68%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 69%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 70%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 71%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 72%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 73%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 74%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 75%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 76%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 77%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 78%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 79%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 80%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 81%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 82%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 83%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 84%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 85%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 86%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 87%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 88%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 89%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 90%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 91%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 92%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 93%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 94%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 95%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 96%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 97%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 98%
+[Modules] Streaming discord_voice@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip: 100%
+[Modules] Finished module downloads. [success: 5] [failure: 0]
+[Modules] Installing updates...
+[Modules] Installing discord_desktop_core@1 from /home/lucas/.config/discord/0.0.24/modules/pending/discord_desktop_core-1.zip
+[Modules] Installing discord_erlpack@1 from /home/lucas/.config/discord/0.0.24/modules/pending/discord_erlpack-1.zip
+[Modules] Installing discord_spellcheck@1 from /home/lucas/.config/discord/0.0.24/modules/pending/discord_spellcheck-1.zip
+[Modules] Installing discord_utils@1 from /home/lucas/.config/discord/0.0.24/modules/pending/discord_utils-1.zip
+[Modules] Installing discord_voice@1 from /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-1.zip
+[Modules] Finished module installations. [success: 5] [failure: 0]
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+[Modules] No module updates available.
+[Modules] Starting to install discord_krisp...
+[Modules] Fetching discord_krisp@1 from https://discord.com/api/modules/stable/discord_krisp/1
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip
+[Modules] Starting to install discord_game_utils...
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 1%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 2%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 3%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 4%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 5%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 6%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 7%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 8%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 9%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 10%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 11%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 12%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 13%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 14%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 15%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 16%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 17%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 18%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 19%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 20%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 21%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 22%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 23%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 24%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 25%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 26%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 27%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 28%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 29%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 30%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 31%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 32%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 33%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 34%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 35%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 36%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 37%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 38%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 39%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 40%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 41%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 42%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 43%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 44%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 45%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 46%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 47%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 48%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 49%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 50%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 51%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 52%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 53%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 54%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 55%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 56%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 57%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 58%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 59%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 60%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 61%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 62%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 63%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 64%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 65%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 66%
+[Modules] Checking for host updates.
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 67%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 68%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 69%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 70%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 71%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 72%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 73%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 74%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 75%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 76%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 77%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 78%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 79%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 80%
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 81%
+[Modules] No module updates available.
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 82%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 83%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 84%
+[Modules] Starting to install discord_rpc...
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 85%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 86%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 87%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 88%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 89%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 90%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 91%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 92%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 93%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 94%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 95%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 96%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 97%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 98%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 99%
+[Modules] Streaming discord_krisp@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip: 100%
+[Modules] Fetching discord_game_utils@1 from https://discord.com/api/modules/stable/discord_game_utils/1
+[Modules] Streaming discord_game_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip
+[Modules] Installing discord_krisp@1 from /home/lucas/.config/discord/0.0.24/modules/pending/discord_krisp-1.zip
+[Modules] Streaming discord_game_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 1%
+[Modules] Streaming discord_game_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 4%
+[Modules] Streaming discord_game_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 5%
+[Modules] Streaming discord_game_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 8%
+[Modules] Streaming discord_game_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 11%
+[Modules] Streaming discord_game_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 13%
+[Modules] Streaming discord_game_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 15%
+[Modules] Streaming discord_game_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 17%
+[Modules] Streaming discord_game_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 18%
+[Modules] Streaming discord_game_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 21%
+[Modules] Streaming discord_game_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 25%
+[Modules] Streaming discord_game_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 26%
+[Modules] Streaming discord_game_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 42%
+[Modules] Streaming discord_game_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 63%
+[Modules] Streaming discord_game_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 77%
+[Modules] Streaming discord_game_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 85%
+[Modules] Streaming discord_game_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 98%
+[Modules] Streaming discord_game_utils@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip: 100%
+[Modules] Fetching discord_rpc@1 from https://discord.com/api/modules/stable/discord_rpc/1
+[Modules] Streaming discord_rpc@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_rpc-1.zip
+[Modules] Streaming discord_rpc@1 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_rpc-1.zip: 100%
+[Modules] Finished module downloads. [success: 3] [failure: 0]
+[Modules] Installing discord_game_utils@1 from /home/lucas/.config/discord/0.0.24/modules/pending/discord_game_utils-1.zip
+[Modules] Installing discord_rpc@1 from /home/lucas/.config/discord/0.0.24/modules/pending/discord_rpc-1.zip
+[Modules] Finished module installations. [success: 3] [failure: 0]
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/lucas/.config/discord/0.0.24/modules
+[Modules] Module installed file path: /home/lucas/.config/discord/0.0.24/modules/installed.json
+[Modules] Module download path: /home/lucas/.config/discord/0.0.24/modules/pending
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+[Modules] No module updates available.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/lucas/.config/discord/0.0.24/modules
+[Modules] Module installed file path: /home/lucas/.config/discord/0.0.24/modules/installed.json
+[Modules] Module download path: /home/lucas/.config/discord/0.0.24/modules/pending
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+[Modules] Module update available: discord_voice@2 [installed: 1]
+[Modules] Fetching discord_voice@2 from https://discord.com/api/modules/stable/discord_voice/2
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 1%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 2%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 3%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 4%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 5%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 6%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 7%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 8%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 9%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 10%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 11%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 12%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 13%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 14%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 15%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 16%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 17%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 18%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 19%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 20%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 21%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 22%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 23%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 24%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 25%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 26%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 27%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 28%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 29%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 30%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 31%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 32%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 33%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 34%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 35%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 36%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 37%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 38%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 39%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 40%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 41%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 42%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 43%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 44%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 45%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 46%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 47%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 48%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 49%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 50%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 51%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 52%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 53%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 54%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 55%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 56%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 57%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 58%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 59%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 60%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 61%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 62%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 63%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 64%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 65%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 66%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 67%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 68%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 69%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 70%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 71%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 72%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 73%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 74%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 75%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 76%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 77%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 78%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 79%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 80%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 81%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 82%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 83%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 84%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 85%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 86%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 87%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 88%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 89%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 90%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 91%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 92%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 93%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 94%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 95%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 96%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 97%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 98%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 99%
+[Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip: 100%
+[Modules] Finished module downloads. [success: 1] [failure: 0]
+[Modules] Installing updates...
+[Modules] Installing discord_voice@2 from /home/lucas/.config/discord/0.0.24/modules/pending/discord_voice-2.zip
+[Modules] Finished module installations. [success: 1] [failure: 0]
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+[Modules] No module updates available.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/lucas/.config/discord/0.0.24/modules
+[Modules] Module installed file path: /home/lucas/.config/discord/0.0.24/modules/installed.json
+[Modules] Module download path: /home/lucas/.config/discord/0.0.24/modules/pending
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+[Modules] No module updates available.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/lucas/.config/discord/0.0.24/modules
+[Modules] Module installed file path: /home/lucas/.config/discord/0.0.24/modules/installed.json
+[Modules] Module download path: /home/lucas/.config/discord/0.0.24/modules/pending
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+[Modules] No module updates available.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/lucas/.config/discord/0.0.24/modules
+[Modules] Module installed file path: /home/lucas/.config/discord/0.0.24/modules/installed.json
+[Modules] Module download path: /home/lucas/.config/discord/0.0.24/modules/pending
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+[Modules] No module updates available.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/lucas/.config/discord/0.0.24/modules
+[Modules] Module installed file path: /home/lucas/.config/discord/0.0.24/modules/installed.json
+[Modules] Module download path: /home/lucas/.config/discord/0.0.24/modules/pending
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+[Modules] No module updates available.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/lucas/.config/discord/0.0.24/modules
+[Modules] Module installed file path: /home/lucas/.config/discord/0.0.24/modules/installed.json
+[Modules] Module download path: /home/lucas/.config/discord/0.0.24/modules/pending
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+[Modules] No module updates available.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/lucas/.config/discord/0.0.24/modules
+[Modules] Module installed file path: /home/lucas/.config/discord/0.0.24/modules/installed.json
+[Modules] Module download path: /home/lucas/.config/discord/0.0.24/modules/pending
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+[Modules] No module updates available.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/lucas/.config/discord/0.0.24/modules
+[Modules] Module installed file path: /home/lucas/.config/discord/0.0.24/modules/installed.json
+[Modules] Module download path: /home/lucas/.config/discord/0.0.24/modules/pending
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+[Modules] No module updates available.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/lucas/.config/discord/0.0.24/modules
+[Modules] Module installed file path: /home/lucas/.config/discord/0.0.24/modules/installed.json
+[Modules] Module download path: /home/lucas/.config/discord/0.0.24/modules/pending
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+[Modules] No module updates available.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/lucas/.config/discord/0.0.24/modules
+[Modules] Module installed file path: /home/lucas/.config/discord/0.0.24/modules/installed.json
+[Modules] Module download path: /home/lucas/.config/discord/0.0.24/modules/pending
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+[Modules] No module updates available.
+[Modules] Checking for host updates.
+[Modules] Host is up to date.
+[Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+[Modules] No module updates available.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/lucas/.config/discord/0.0.24/modules
+[Modules] Module installed file path: /home/lucas/.config/discord/0.0.24/modules/installed.json
+[Modules] Module download path: /home/lucas/.config/discord/0.0.24/modules/pending
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host update is available. Manual update required!
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/lucas/.config/discord/0.0.24/modules
+[Modules] Module installed file path: /home/lucas/.config/discord/0.0.24/modules/installed.json
+[Modules] Module download path: /home/lucas/.config/discord/0.0.24/modules/pending
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Modules initializing
+[Modules] Distribution: remote
+[Modules] Host updates: enabled
+[Modules] Module updates: enabled
+[Modules] Module install path: /home/lucas/.config/discord/0.0.24/modules
+[Modules] Module installed file path: /home/lucas/.config/discord/0.0.24/modules/installed.json
+[Modules] Module download path: /home/lucas/.config/discord/0.0.24/modules/pending
+[Modules] No updates to install
+[Modules] Checking for host updates.
+[Modules] Host update is available. Manual update required!
+2024-05-23T01:36:36.920Z [Modules] Modules initializing
+2024-05-23T01:36:36.920Z [Modules] Distribution: remote
+2024-05-23T01:36:36.920Z [Modules] Host updates: enabled
+2024-05-23T01:36:36.921Z [Modules] Module updates: enabled
+2024-05-23T01:36:36.921Z [Modules] Module install path: /home/lucas/.config/discord/0.0.54/modules
+2024-05-23T01:36:36.921Z [Modules] Module installed file path: /home/lucas/.config/discord/0.0.54/modules/installed.json
+2024-05-23T01:36:36.921Z [Modules] Module download path: /home/lucas/.config/discord/0.0.54/modules/pending
+2024-05-23T01:36:37.100Z [Modules] Bootstrapping...
+2024-05-23T01:36:37.101Z [Modules] Installing discord_desktop_core@0 from /opt/discord/resources/bootstrap/discord_desktop_core.zip
+2024-05-23T01:36:37.103Z [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_desktop_core.zip'
+2024-05-23T01:36:37.104Z [Modules] Installing discord_erlpack@0 from /opt/discord/resources/bootstrap/discord_erlpack.zip
+2024-05-23T01:36:37.105Z [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_erlpack.zip'
+2024-05-23T01:36:37.105Z [Modules] Installing discord_spellcheck@0 from /opt/discord/resources/bootstrap/discord_spellcheck.zip
+2024-05-23T01:36:37.107Z [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_spellcheck.zip'
+2024-05-23T01:36:37.108Z [Modules] Installing discord_utils@0 from /opt/discord/resources/bootstrap/discord_utils.zip
+2024-05-23T01:36:37.110Z [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_utils.zip'
+2024-05-23T01:36:37.112Z [Modules] Installing discord_voice@0 from /opt/discord/resources/bootstrap/discord_voice.zip
+2024-05-23T01:36:37.115Z [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_voice.zip'
+2024-05-23T01:36:37.116Z [Modules] Installing discord_zstd@0 from /opt/discord/resources/bootstrap/discord_zstd.zip
+2024-05-23T01:36:37.117Z [Modules] Failed installing discord_zstd@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_zstd.zip'
+2024-05-23T01:36:37.117Z [Modules] Finished module installations. [success: 0] [failure: 6]
+2024-05-23T01:36:37.117Z [Modules] Checking for host updates.
+2024-05-23T01:36:37.331Z [Modules] Host is up to date.
+2024-05-23T01:36:37.331Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-05-23T01:36:37.375Z [Modules] Module update available: discord_desktop_core@1 [installed: 0]
+2024-05-23T01:36:37.375Z [Modules] Module update available: discord_erlpack@1 [installed: 0]
+2024-05-23T01:36:37.375Z [Modules] Module update available: discord_spellcheck@1 [installed: 0]
+2024-05-23T01:36:37.375Z [Modules] Module update available: discord_utils@1 [installed: 0]
+2024-05-23T01:36:37.375Z [Modules] Module update available: discord_voice@2 [installed: 0]
+2024-05-23T01:36:37.375Z [Modules] Module update available: discord_zstd@1 [installed: 0]
+2024-05-23T01:36:37.376Z [Modules] Fetching discord_desktop_core@1 from https://discord.com/api/modules/stable/discord_desktop_core/1
+2024-05-23T01:36:37.376Z [Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_desktop_core-1.zip
+2024-05-23T01:36:37.754Z [Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_desktop_core-1.zip: 1%
+2024-05-23T01:36:37.770Z [Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_desktop_core-1.zip: 2%
+2024-05-23T01:36:37.791Z [Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_desktop_core-1.zip: 5%
+2024-05-23T01:36:37.797Z [Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_desktop_core-1.zip: 7%
+2024-05-23T01:36:37.811Z [Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_desktop_core-1.zip: 9%
+2024-05-23T01:36:37.812Z [Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_desktop_core-1.zip: 11%
+2024-05-23T01:36:37.814Z [Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_desktop_core-1.zip: 13%
+2024-05-23T01:36:37.818Z [Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_desktop_core-1.zip: 16%
+2024-05-23T01:36:37.819Z [Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_desktop_core-1.zip: 19%
+2024-05-23T01:36:37.830Z [Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_desktop_core-1.zip: 20%
+2024-05-23T01:36:37.831Z [Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_desktop_core-1.zip: 25%
+2024-05-23T01:36:37.834Z [Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_desktop_core-1.zip: 27%
+2024-05-23T01:36:37.835Z [Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_desktop_core-1.zip: 31%
+2024-05-23T01:36:37.836Z [Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_desktop_core-1.zip: 34%
+2024-05-23T01:36:37.838Z [Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_desktop_core-1.zip: 38%
+2024-05-23T01:36:37.844Z [Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_desktop_core-1.zip: 41%
+2024-05-23T01:36:37.845Z [Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_desktop_core-1.zip: 42%
+2024-05-23T01:36:37.849Z [Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_desktop_core-1.zip: 44%
+2024-05-23T01:36:37.849Z [Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_desktop_core-1.zip: 48%
+2024-05-23T01:36:37.852Z [Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_desktop_core-1.zip: 50%
+2024-05-23T01:36:37.854Z [Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_desktop_core-1.zip: 53%
+2024-05-23T01:36:37.855Z [Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_desktop_core-1.zip: 58%
+2024-05-23T01:36:37.857Z [Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_desktop_core-1.zip: 61%
+2024-05-23T01:36:37.859Z [Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_desktop_core-1.zip: 67%
+2024-05-23T01:36:37.861Z [Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_desktop_core-1.zip: 68%
+2024-05-23T01:36:37.864Z [Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_desktop_core-1.zip: 71%
+2024-05-23T01:36:37.865Z [Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_desktop_core-1.zip: 82%
+2024-05-23T01:36:37.867Z [Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_desktop_core-1.zip: 85%
+2024-05-23T01:36:37.868Z [Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_desktop_core-1.zip: 93%
+2024-05-23T01:36:37.870Z [Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_desktop_core-1.zip: 94%
+2024-05-23T01:36:37.871Z [Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_desktop_core-1.zip: 96%
+2024-05-23T01:36:37.872Z [Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_desktop_core-1.zip: 99%
+2024-05-23T01:36:37.872Z [Modules] Streaming discord_desktop_core@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_desktop_core-1.zip: 100%
+2024-05-23T01:36:37.874Z [Modules] Fetching discord_erlpack@1 from https://discord.com/api/modules/stable/discord_erlpack/1
+2024-05-23T01:36:37.874Z [Modules] Streaming discord_erlpack@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_erlpack-1.zip
+2024-05-23T01:36:38.003Z [Modules] Streaming discord_erlpack@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_erlpack-1.zip: 4%
+2024-05-23T01:36:38.004Z [Modules] Streaming discord_erlpack@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_erlpack-1.zip: 14%
+2024-05-23T01:36:38.005Z [Modules] Streaming discord_erlpack@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_erlpack-1.zip: 15%
+2024-05-23T01:36:38.007Z [Modules] Streaming discord_erlpack@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_erlpack-1.zip: 19%
+2024-05-23T01:36:38.010Z [Modules] Streaming discord_erlpack@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_erlpack-1.zip: 30%
+2024-05-23T01:36:38.013Z [Modules] Streaming discord_erlpack@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_erlpack-1.zip: 33%
+2024-05-23T01:36:38.014Z [Modules] Streaming discord_erlpack@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_erlpack-1.zip: 37%
+2024-05-23T01:36:38.015Z [Modules] Streaming discord_erlpack@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_erlpack-1.zip: 46%
+2024-05-23T01:36:38.016Z [Modules] Streaming discord_erlpack@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_erlpack-1.zip: 53%
+2024-05-23T01:36:38.017Z [Modules] Streaming discord_erlpack@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_erlpack-1.zip: 59%
+2024-05-23T01:36:38.018Z [Modules] Streaming discord_erlpack@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_erlpack-1.zip: 62%
+2024-05-23T01:36:38.023Z [Modules] Streaming discord_erlpack@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_erlpack-1.zip: 65%
+2024-05-23T01:36:38.025Z [Modules] Streaming discord_erlpack@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_erlpack-1.zip: 76%
+2024-05-23T01:36:38.026Z [Modules] Streaming discord_erlpack@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_erlpack-1.zip: 80%
+2024-05-23T01:36:38.028Z [Modules] Streaming discord_erlpack@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_erlpack-1.zip: 83%
+2024-05-23T01:36:38.030Z [Modules] Streaming discord_erlpack@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_erlpack-1.zip: 93%
+2024-05-23T01:36:38.032Z [Modules] Streaming discord_erlpack@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_erlpack-1.zip: 95%
+2024-05-23T01:36:38.033Z [Modules] Streaming discord_erlpack@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_erlpack-1.zip: 98%
+2024-05-23T01:36:38.034Z [Modules] Streaming discord_erlpack@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_erlpack-1.zip: 100%
+2024-05-23T01:36:38.035Z [Modules] Fetching discord_spellcheck@1 from https://discord.com/api/modules/stable/discord_spellcheck/1
+2024-05-23T01:36:38.035Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip
+2024-05-23T01:36:38.170Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 1%
+2024-05-23T01:36:38.172Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 3%
+2024-05-23T01:36:38.175Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 4%
+2024-05-23T01:36:38.176Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 6%
+2024-05-23T01:36:38.177Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 7%
+2024-05-23T01:36:38.179Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 8%
+2024-05-23T01:36:38.181Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 9%
+2024-05-23T01:36:38.182Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 10%
+2024-05-23T01:36:38.184Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 11%
+2024-05-23T01:36:38.185Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 13%
+2024-05-23T01:36:38.187Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 14%
+2024-05-23T01:36:38.187Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 15%
+2024-05-23T01:36:38.192Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 16%
+2024-05-23T01:36:38.193Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 18%
+2024-05-23T01:36:38.199Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 19%
+2024-05-23T01:36:38.200Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 20%
+2024-05-23T01:36:38.201Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 21%
+2024-05-23T01:36:38.205Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 22%
+2024-05-23T01:36:38.206Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 23%
+2024-05-23T01:36:38.209Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 24%
+2024-05-23T01:36:38.211Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 26%
+2024-05-23T01:36:38.212Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 27%
+2024-05-23T01:36:38.213Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 28%
+2024-05-23T01:36:38.222Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 29%
+2024-05-23T01:36:38.223Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 30%
+2024-05-23T01:36:38.225Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 31%
+2024-05-23T01:36:38.229Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 32%
+2024-05-23T01:36:38.230Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 34%
+2024-05-23T01:36:38.234Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 35%
+2024-05-23T01:36:38.235Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 38%
+2024-05-23T01:36:38.239Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 39%
+2024-05-23T01:36:38.240Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 41%
+2024-05-23T01:36:38.241Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 43%
+2024-05-23T01:36:38.246Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 44%
+2024-05-23T01:36:38.247Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 46%
+2024-05-23T01:36:38.251Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 47%
+2024-05-23T01:36:38.252Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 49%
+2024-05-23T01:36:38.254Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 50%
+2024-05-23T01:36:38.256Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 51%
+2024-05-23T01:36:38.268Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 52%
+2024-05-23T01:36:38.270Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 54%
+2024-05-23T01:36:38.272Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 56%
+2024-05-23T01:36:38.276Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 57%
+2024-05-23T01:36:38.278Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 59%
+2024-05-23T01:36:38.279Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 60%
+2024-05-23T01:36:38.280Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 61%
+2024-05-23T01:36:38.282Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 62%
+2024-05-23T01:36:38.284Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 65%
+2024-05-23T01:36:38.289Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 66%
+2024-05-23T01:36:38.292Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 69%
+2024-05-23T01:36:38.295Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 70%
+2024-05-23T01:36:38.297Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 71%
+2024-05-23T01:36:38.298Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 72%
+2024-05-23T01:36:38.302Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 73%
+2024-05-23T01:36:38.307Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 74%
+2024-05-23T01:36:38.309Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 75%
+2024-05-23T01:36:38.312Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 76%
+2024-05-23T01:36:38.313Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 78%
+2024-05-23T01:36:38.316Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 79%
+2024-05-23T01:36:38.317Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 81%
+2024-05-23T01:36:38.319Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 82%
+2024-05-23T01:36:38.323Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 83%
+2024-05-23T01:36:38.324Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 85%
+2024-05-23T01:36:38.325Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 86%
+2024-05-23T01:36:38.328Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 87%
+2024-05-23T01:36:38.329Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 88%
+2024-05-23T01:36:38.330Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 89%
+2024-05-23T01:36:38.331Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 90%
+2024-05-23T01:36:38.334Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 91%
+2024-05-23T01:36:38.335Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 92%
+2024-05-23T01:36:38.335Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 93%
+2024-05-23T01:36:38.336Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 94%
+2024-05-23T01:36:38.352Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 95%
+2024-05-23T01:36:38.355Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 96%
+2024-05-23T01:36:38.356Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 97%
+2024-05-23T01:36:38.359Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 98%
+2024-05-23T01:36:38.360Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 99%
+2024-05-23T01:36:38.361Z [Modules] Streaming discord_spellcheck@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip: 100%
+2024-05-23T01:36:38.362Z [Modules] Fetching discord_utils@1 from https://discord.com/api/modules/stable/discord_utils/1
+2024-05-23T01:36:38.362Z [Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_utils-1.zip
+2024-05-23T01:36:38.505Z [Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_utils-1.zip: 2%
+2024-05-23T01:36:38.507Z [Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_utils-1.zip: 6%
+2024-05-23T01:36:38.510Z [Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_utils-1.zip: 8%
+2024-05-23T01:36:38.511Z [Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_utils-1.zip: 11%
+2024-05-23T01:36:38.512Z [Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_utils-1.zip: 16%
+2024-05-23T01:36:38.515Z [Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_utils-1.zip: 18%
+2024-05-23T01:36:38.516Z [Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_utils-1.zip: 23%
+2024-05-23T01:36:38.517Z [Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_utils-1.zip: 26%
+2024-05-23T01:36:38.518Z [Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_utils-1.zip: 29%
+2024-05-23T01:36:38.520Z [Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_utils-1.zip: 35%
+2024-05-23T01:36:38.523Z [Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_utils-1.zip: 37%
+2024-05-23T01:36:38.524Z [Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_utils-1.zip: 39%
+2024-05-23T01:36:38.525Z [Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_utils-1.zip: 44%
+2024-05-23T01:36:38.527Z [Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_utils-1.zip: 46%
+2024-05-23T01:36:38.529Z [Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_utils-1.zip: 55%
+2024-05-23T01:36:38.530Z [Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_utils-1.zip: 59%
+2024-05-23T01:36:38.535Z [Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_utils-1.zip: 61%
+2024-05-23T01:36:38.535Z [Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_utils-1.zip: 66%
+2024-05-23T01:36:38.536Z [Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_utils-1.zip: 68%
+2024-05-23T01:36:38.539Z [Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_utils-1.zip: 70%
+2024-05-23T01:36:38.539Z [Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_utils-1.zip: 77%
+2024-05-23T01:36:38.547Z [Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_utils-1.zip: 78%
+2024-05-23T01:36:38.548Z [Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_utils-1.zip: 80%
+2024-05-23T01:36:38.548Z [Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_utils-1.zip: 83%
+2024-05-23T01:36:38.554Z [Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_utils-1.zip: 85%
+2024-05-23T01:36:38.555Z [Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_utils-1.zip: 93%
+2024-05-23T01:36:38.556Z [Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_utils-1.zip: 97%
+2024-05-23T01:36:38.558Z [Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_utils-1.zip: 99%
+2024-05-23T01:36:38.559Z [Modules] Streaming discord_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_utils-1.zip: 100%
+2024-05-23T01:36:38.560Z [Modules] Fetching discord_voice@2 from https://discord.com/api/modules/stable/discord_voice/2
+2024-05-23T01:36:38.560Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip
+2024-05-23T01:36:38.732Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 1%
+2024-05-23T01:36:38.736Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 2%
+2024-05-23T01:36:38.737Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 3%
+2024-05-23T01:36:38.741Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 4%
+2024-05-23T01:36:38.742Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 5%
+2024-05-23T01:36:38.747Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 6%
+2024-05-23T01:36:38.748Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 7%
+2024-05-23T01:36:38.754Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 8%
+2024-05-23T01:36:38.764Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 9%
+2024-05-23T01:36:38.768Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 10%
+2024-05-23T01:36:38.770Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 11%
+2024-05-23T01:36:38.774Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 12%
+2024-05-23T01:36:38.778Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 13%
+2024-05-23T01:36:38.779Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 14%
+2024-05-23T01:36:38.782Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 15%
+2024-05-23T01:36:38.783Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 16%
+2024-05-23T01:36:38.790Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 17%
+2024-05-23T01:36:38.793Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 18%
+2024-05-23T01:36:38.799Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 19%
+2024-05-23T01:36:38.803Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 20%
+2024-05-23T01:36:38.808Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 21%
+2024-05-23T01:36:38.811Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 22%
+2024-05-23T01:36:38.816Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 23%
+2024-05-23T01:36:38.817Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 24%
+2024-05-23T01:36:38.821Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 25%
+2024-05-23T01:36:38.827Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 26%
+2024-05-23T01:36:38.871Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 27%
+2024-05-23T01:36:38.877Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 28%
+2024-05-23T01:36:38.880Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 29%
+2024-05-23T01:36:38.886Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 30%
+2024-05-23T01:36:38.887Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 31%
+2024-05-23T01:36:38.892Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 32%
+2024-05-23T01:36:38.896Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 33%
+2024-05-23T01:36:38.897Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 34%
+2024-05-23T01:36:38.905Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 35%
+2024-05-23T01:36:38.907Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 36%
+2024-05-23T01:36:38.912Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 37%
+2024-05-23T01:36:38.913Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 38%
+2024-05-23T01:36:38.916Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 39%
+2024-05-23T01:36:38.921Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 40%
+2024-05-23T01:36:38.924Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 41%
+2024-05-23T01:36:38.929Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 42%
+2024-05-23T01:36:38.932Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 43%
+2024-05-23T01:36:38.939Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 44%
+2024-05-23T01:36:38.944Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 45%
+2024-05-23T01:36:38.945Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 46%
+2024-05-23T01:36:38.949Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 47%
+2024-05-23T01:36:38.950Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 48%
+2024-05-23T01:36:38.955Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 49%
+2024-05-23T01:36:38.956Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 50%
+2024-05-23T01:36:38.961Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 51%
+2024-05-23T01:36:38.965Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 52%
+2024-05-23T01:36:38.967Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 53%
+2024-05-23T01:36:39.178Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 54%
+2024-05-23T01:36:39.183Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 55%
+2024-05-23T01:36:39.186Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 56%
+2024-05-23T01:36:39.191Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 57%
+2024-05-23T01:36:39.194Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 58%
+2024-05-23T01:36:39.198Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 59%
+2024-05-23T01:36:39.199Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 60%
+2024-05-23T01:36:39.204Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 61%
+2024-05-23T01:36:39.205Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 62%
+2024-05-23T01:36:39.209Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 63%
+2024-05-23T01:36:39.220Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 64%
+2024-05-23T01:36:39.222Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 65%
+2024-05-23T01:36:39.225Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 66%
+2024-05-23T01:36:39.229Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 67%
+2024-05-23T01:36:39.232Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 68%
+2024-05-23T01:36:39.233Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 69%
+2024-05-23T01:36:39.238Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 70%
+2024-05-23T01:36:39.240Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 71%
+2024-05-23T01:36:39.251Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 72%
+2024-05-23T01:36:39.255Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 73%
+2024-05-23T01:36:39.258Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 74%
+2024-05-23T01:36:39.259Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 75%
+2024-05-23T01:36:39.264Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 76%
+2024-05-23T01:36:39.267Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 77%
+2024-05-23T01:36:39.268Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 78%
+2024-05-23T01:36:39.272Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 79%
+2024-05-23T01:36:39.276Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 80%
+2024-05-23T01:36:39.500Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 81%
+2024-05-23T01:36:39.505Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 82%
+2024-05-23T01:36:39.510Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 83%
+2024-05-23T01:36:39.514Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 84%
+2024-05-23T01:36:39.516Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 85%
+2024-05-23T01:36:39.519Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 86%
+2024-05-23T01:36:39.524Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 87%
+2024-05-23T01:36:39.526Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 88%
+2024-05-23T01:36:39.531Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 89%
+2024-05-23T01:36:39.532Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 90%
+2024-05-23T01:36:39.540Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 91%
+2024-05-23T01:36:39.541Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 92%
+2024-05-23T01:36:39.546Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 93%
+2024-05-23T01:36:39.554Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 94%
+2024-05-23T01:36:39.558Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 95%
+2024-05-23T01:36:39.559Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 96%
+2024-05-23T01:36:39.563Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 97%
+2024-05-23T01:36:39.564Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 98%
+2024-05-23T01:36:39.569Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 99%
+2024-05-23T01:36:39.572Z [Modules] Streaming discord_voice@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip: 100%
+2024-05-23T01:36:39.573Z [Modules] Fetching discord_zstd@1 from https://discord.com/api/modules/stable/discord_zstd/1
+2024-05-23T01:36:39.573Z [Modules] Streaming discord_zstd@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_zstd-1.zip
+2024-05-23T01:36:39.700Z [Modules] Streaming discord_zstd@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_zstd-1.zip: 5%
+2024-05-23T01:36:39.701Z [Modules] Streaming discord_zstd@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_zstd-1.zip: 13%
+2024-05-23T01:36:39.703Z [Modules] Streaming discord_zstd@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_zstd-1.zip: 19%
+2024-05-23T01:36:39.704Z [Modules] Streaming discord_zstd@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_zstd-1.zip: 24%
+2024-05-23T01:36:39.704Z [Modules] Streaming discord_zstd@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_zstd-1.zip: 26%
+2024-05-23T01:36:39.710Z [Modules] Streaming discord_zstd@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_zstd-1.zip: 31%
+2024-05-23T01:36:39.712Z [Modules] Streaming discord_zstd@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_zstd-1.zip: 58%
+2024-05-23T01:36:39.714Z [Modules] Streaming discord_zstd@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_zstd-1.zip: 66%
+2024-05-23T01:36:39.716Z [Modules] Streaming discord_zstd@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_zstd-1.zip: 85%
+2024-05-23T01:36:39.718Z [Modules] Streaming discord_zstd@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_zstd-1.zip: 90%
+2024-05-23T01:36:39.718Z [Modules] Streaming discord_zstd@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_zstd-1.zip: 96%
+2024-05-23T01:36:39.719Z [Modules] Streaming discord_zstd@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_zstd-1.zip: 100%
+2024-05-23T01:36:39.720Z [Modules] Finished module downloads. [success: 6] [failure: 0]
+2024-05-23T01:36:39.720Z [Modules] Installing updates...
+2024-05-23T01:36:39.720Z [Modules] Installing discord_desktop_core@1 from /home/lucas/.config/discord/0.0.54/modules/pending/discord_desktop_core-1.zip
+2024-05-23T01:36:39.772Z [Modules] Installing discord_erlpack@1 from /home/lucas/.config/discord/0.0.54/modules/pending/discord_erlpack-1.zip
+2024-05-23T01:36:39.806Z [Modules] Installing discord_spellcheck@1 from /home/lucas/.config/discord/0.0.54/modules/pending/discord_spellcheck-1.zip
+2024-05-23T01:36:40.212Z [Modules] Installing discord_utils@1 from /home/lucas/.config/discord/0.0.54/modules/pending/discord_utils-1.zip
+2024-05-23T01:36:40.284Z [Modules] Installing discord_voice@2 from /home/lucas/.config/discord/0.0.54/modules/pending/discord_voice-2.zip
+2024-05-23T01:36:40.603Z [Modules] Installing discord_zstd@1 from /home/lucas/.config/discord/0.0.54/modules/pending/discord_zstd-1.zip
+2024-05-23T01:36:40.631Z [Modules] Finished module installations. [success: 6] [failure: 0]
+2024-05-23T01:36:40.631Z [Modules] Checking for host updates.
+2024-05-23T01:36:40.729Z [Modules] Host is up to date.
+2024-05-23T01:36:40.729Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-05-23T01:36:40.735Z [Modules] No module updates available.
+2024-05-23T01:36:41.967Z [Modules] Starting to install discord_krisp...
+2024-05-23T01:36:41.968Z [Modules] Fetching discord_krisp@2 from https://discord.com/api/modules/stable/discord_krisp/2
+2024-05-23T01:36:41.968Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip
+2024-05-23T01:36:41.979Z [Modules] Starting to install discord_game_utils...
+2024-05-23T01:36:42.131Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 1%
+2024-05-23T01:36:42.132Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 2%
+2024-05-23T01:36:42.132Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 3%
+2024-05-23T01:36:42.133Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 4%
+2024-05-23T01:36:42.134Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 5%
+2024-05-23T01:36:42.135Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 6%
+2024-05-23T01:36:42.137Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 8%
+2024-05-23T01:36:42.164Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 9%
+2024-05-23T01:36:42.183Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 14%
+2024-05-23T01:36:42.187Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 15%
+2024-05-23T01:36:42.191Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 16%
+2024-05-23T01:36:42.206Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 17%
+2024-05-23T01:36:42.219Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 22%
+2024-05-23T01:36:42.224Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 23%
+2024-05-23T01:36:42.233Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 24%
+2024-05-23T01:36:42.237Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 25%
+2024-05-23T01:36:42.243Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 26%
+2024-05-23T01:36:42.248Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 28%
+2024-05-23T01:36:42.254Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 30%
+2024-05-23T01:36:42.286Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 31%
+2024-05-23T01:36:42.287Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 32%
+2024-05-23T01:36:42.288Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 33%
+2024-05-23T01:36:42.289Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 34%
+2024-05-23T01:36:42.290Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 35%
+2024-05-23T01:36:42.292Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 36%
+2024-05-23T01:36:42.297Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 37%
+2024-05-23T01:36:42.299Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 38%
+2024-05-23T01:36:42.300Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 40%
+2024-05-23T01:36:42.315Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 41%
+2024-05-23T01:36:42.316Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 42%
+2024-05-23T01:36:42.318Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 43%
+2024-05-23T01:36:42.318Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 44%
+2024-05-23T01:36:42.333Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 45%
+2024-05-23T01:36:42.334Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 46%
+2024-05-23T01:36:42.335Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 47%
+2024-05-23T01:36:42.335Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 48%
+2024-05-23T01:36:42.339Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 49%
+2024-05-23T01:36:42.345Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 50%
+2024-05-23T01:36:42.349Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 51%
+2024-05-23T01:36:42.356Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 52%
+2024-05-23T01:36:42.357Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 53%
+2024-05-23T01:36:42.357Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 54%
+2024-05-23T01:36:42.363Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 55%
+2024-05-23T01:36:42.371Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 56%
+2024-05-23T01:36:42.371Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 57%
+2024-05-23T01:36:42.379Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 58%
+2024-05-23T01:36:42.380Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 59%
+2024-05-23T01:36:42.438Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 60%
+2024-05-23T01:36:42.440Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 61%
+2024-05-23T01:36:42.440Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 62%
+2024-05-23T01:36:42.441Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 63%
+2024-05-23T01:36:42.447Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 64%
+2024-05-23T01:36:42.447Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 65%
+2024-05-23T01:36:42.448Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 67%
+2024-05-23T01:36:42.448Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 68%
+2024-05-23T01:36:42.450Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 69%
+2024-05-23T01:36:42.465Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 70%
+2024-05-23T01:36:42.466Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 71%
+2024-05-23T01:36:42.467Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 72%
+2024-05-23T01:36:42.478Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 73%
+2024-05-23T01:36:42.484Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 74%
+2024-05-23T01:36:42.485Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 75%
+2024-05-23T01:36:42.486Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 76%
+2024-05-23T01:36:42.487Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 77%
+2024-05-23T01:36:42.491Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 78%
+2024-05-23T01:36:42.496Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 79%
+2024-05-23T01:36:42.498Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 80%
+2024-05-23T01:36:42.499Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 81%
+2024-05-23T01:36:42.504Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 82%
+2024-05-23T01:36:42.507Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 83%
+2024-05-23T01:36:42.514Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 84%
+2024-05-23T01:36:42.518Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 85%
+2024-05-23T01:36:42.529Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 86%
+2024-05-23T01:36:42.536Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 87%
+2024-05-23T01:36:42.537Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 88%
+2024-05-23T01:36:42.541Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 89%
+2024-05-23T01:36:42.542Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 90%
+2024-05-23T01:36:42.547Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 91%
+2024-05-23T01:36:42.549Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 92%
+2024-05-23T01:36:42.551Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 93%
+2024-05-23T01:36:42.554Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 94%
+2024-05-23T01:36:42.562Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 95%
+2024-05-23T01:36:42.570Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 96%
+2024-05-23T01:36:42.575Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 97%
+2024-05-23T01:36:42.580Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 98%
+2024-05-23T01:36:42.583Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 99%
+2024-05-23T01:36:42.586Z [Modules] Streaming discord_krisp@2 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip: 100%
+2024-05-23T01:36:42.586Z [Modules] Fetching discord_game_utils@1 from https://discord.com/api/modules/stable/discord_game_utils/1
+2024-05-23T01:36:42.587Z [Modules] Streaming discord_game_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_game_utils-1.zip
+2024-05-23T01:36:42.587Z [Modules] Installing discord_krisp@2 from /home/lucas/.config/discord/0.0.54/modules/pending/discord_krisp-2.zip
+2024-05-23T01:36:42.761Z [Modules] Streaming discord_game_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_game_utils-1.zip: 2%
+2024-05-23T01:36:42.761Z [Modules] Streaming discord_game_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_game_utils-1.zip: 3%
+2024-05-23T01:36:42.768Z [Modules] Streaming discord_game_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_game_utils-1.zip: 6%
+2024-05-23T01:36:42.769Z [Modules] Streaming discord_game_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_game_utils-1.zip: 9%
+2024-05-23T01:36:42.769Z [Modules] Streaming discord_game_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_game_utils-1.zip: 10%
+2024-05-23T01:36:42.771Z [Modules] Streaming discord_game_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_game_utils-1.zip: 13%
+2024-05-23T01:36:42.778Z [Modules] Streaming discord_game_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_game_utils-1.zip: 15%
+2024-05-23T01:36:42.779Z [Modules] Streaming discord_game_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_game_utils-1.zip: 26%
+2024-05-23T01:36:42.783Z [Modules] Streaming discord_game_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_game_utils-1.zip: 28%
+2024-05-23T01:36:42.784Z [Modules] Streaming discord_game_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_game_utils-1.zip: 36%
+2024-05-23T01:36:42.788Z [Modules] Streaming discord_game_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_game_utils-1.zip: 39%
+2024-05-23T01:36:42.789Z [Modules] Streaming discord_game_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_game_utils-1.zip: 47%
+2024-05-23T01:36:42.789Z [Modules] Streaming discord_game_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_game_utils-1.zip: 49%
+2024-05-23T01:36:42.790Z [Modules] Streaming discord_game_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_game_utils-1.zip: 52%
+2024-05-23T01:36:42.795Z [Modules] Streaming discord_game_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_game_utils-1.zip: 55%
+2024-05-23T01:36:42.796Z [Modules] Streaming discord_game_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_game_utils-1.zip: 66%
+2024-05-23T01:36:42.796Z [Modules] Streaming discord_game_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_game_utils-1.zip: 69%
+2024-05-23T01:36:42.801Z [Modules] Streaming discord_game_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_game_utils-1.zip: 71%
+2024-05-23T01:36:42.802Z [Modules] Streaming discord_game_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_game_utils-1.zip: 75%
+2024-05-23T01:36:42.802Z [Modules] Streaming discord_game_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_game_utils-1.zip: 80%
+2024-05-23T01:36:42.802Z [Modules] Streaming discord_game_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_game_utils-1.zip: 82%
+2024-05-23T01:36:42.802Z [Modules] Streaming discord_game_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_game_utils-1.zip: 84%
+2024-05-23T01:36:42.803Z [Modules] Streaming discord_game_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_game_utils-1.zip: 86%
+2024-05-23T01:36:42.809Z [Modules] Streaming discord_game_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_game_utils-1.zip: 89%
+2024-05-23T01:36:42.810Z [Modules] Streaming discord_game_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_game_utils-1.zip: 95%
+2024-05-23T01:36:42.811Z [Modules] Streaming discord_game_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_game_utils-1.zip: 98%
+2024-05-23T01:36:42.811Z [Modules] Streaming discord_game_utils@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_game_utils-1.zip: 100%
+2024-05-23T01:36:42.811Z [Modules] Finished module downloads. [success: 2] [failure: 0]
+2024-05-23T01:36:42.819Z [Modules] Checking for host updates.
+2024-05-23T01:36:42.878Z [Modules] Installing discord_game_utils@1 from /home/lucas/.config/discord/0.0.54/modules/pending/discord_game_utils-1.zip
+2024-05-23T01:36:42.906Z [Modules] Host is up to date.
+2024-05-23T01:36:42.906Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-05-23T01:36:42.908Z [Modules] No module updates available.
+2024-05-23T01:36:42.921Z [Modules] Finished module installations. [success: 2] [failure: 0]
+2024-05-23T01:36:42.940Z [Modules] Starting to install discord_rpc...
+2024-05-23T01:36:42.941Z [Modules] Fetching discord_rpc@1 from https://discord.com/api/modules/stable/discord_rpc/1
+2024-05-23T01:36:42.941Z [Modules] Streaming discord_rpc@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_rpc-1.zip
+2024-05-23T01:36:43.065Z [Modules] Streaming discord_rpc@1 to /home/lucas/.config/discord/0.0.54/modules/pending/discord_rpc-1.zip: 100%
+2024-05-23T01:36:43.066Z [Modules] Finished module downloads. [success: 1] [failure: 0]
+2024-05-23T01:36:43.066Z [Modules] Installing discord_rpc@1 from /home/lucas/.config/discord/0.0.54/modules/pending/discord_rpc-1.zip
+2024-05-23T01:36:43.081Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2024-05-23T01:41:46.051Z [Modules] Modules initializing
+2024-05-23T01:41:46.051Z [Modules] Distribution: remote
+2024-05-23T01:41:46.051Z [Modules] Host updates: enabled
+2024-05-23T01:41:46.051Z [Modules] Module updates: enabled
+2024-05-23T01:41:46.052Z [Modules] Module install path: /home/lucas/.config/discord/0.0.54/modules
+2024-05-23T01:41:46.052Z [Modules] Module installed file path: /home/lucas/.config/discord/0.0.54/modules/installed.json
+2024-05-23T01:41:46.052Z [Modules] Module download path: /home/lucas/.config/discord/0.0.54/modules/pending
+2024-05-23T01:41:46.213Z [Modules] No updates to install
+2024-05-23T01:41:46.214Z [Modules] Checking for host updates.
+2024-05-23T01:41:51.489Z [Modules] Host is up to date.
+2024-05-23T01:41:51.489Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-05-23T01:41:51.547Z [Modules] No module updates available.
+2024-05-23T01:41:53.565Z [Modules] Checking for host updates.
+2024-05-23T01:41:53.665Z [Modules] Host is up to date.
+2024-05-23T01:41:53.665Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-05-23T01:41:53.670Z [Modules] No module updates available.
+2024-05-23T01:52:52.482Z [Modules] Modules initializing
+2024-05-23T01:52:52.482Z [Modules] Distribution: remote
+2024-05-23T01:52:52.483Z [Modules] Host updates: enabled
+2024-05-23T01:52:52.483Z [Modules] Module updates: enabled
+2024-05-23T01:52:52.483Z [Modules] Module install path: /home/lucas/.config/discord/0.0.54/modules
+2024-05-23T01:52:52.483Z [Modules] Module installed file path: /home/lucas/.config/discord/0.0.54/modules/installed.json
+2024-05-23T01:52:52.483Z [Modules] Module download path: /home/lucas/.config/discord/0.0.54/modules/pending
+2024-05-23T01:52:52.635Z [Modules] No updates to install
+2024-05-23T01:52:52.636Z [Modules] Checking for host updates.
+2024-05-23T01:52:52.834Z [Modules] Host is up to date.
+2024-05-23T01:52:52.834Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-05-23T01:52:52.887Z [Modules] No module updates available.
+2024-05-23T01:52:54.848Z [Modules] Checking for host updates.
+2024-05-23T01:52:54.956Z [Modules] Host is up to date.
+2024-05-23T01:52:54.956Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-05-23T01:52:54.960Z [Modules] No module updates available.
+2024-05-23T02:52:54.864Z [Modules] Checking for host updates.
+2024-05-23T02:52:54.959Z [Modules] Host is up to date.
+2024-05-23T02:52:54.960Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-05-23T02:52:55.000Z [Modules] No module updates available.

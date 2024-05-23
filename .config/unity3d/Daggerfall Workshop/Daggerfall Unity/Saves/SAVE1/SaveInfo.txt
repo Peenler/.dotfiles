@@ -1,0 +1,12 @@
+{
+    "saveVersion": 1,
+    "saveName": "QuickSave",
+    "characterName": "Spidle",
+    "dateAndTime": {
+        "gameTime": 12598659171,
+        "realTime": 638146426868631410,
+        "$version": "v1"
+    },
+    "dfuVersion": "0.14.5",
+    "$version": "v1"
+}

@@ -1,0 +1,6 @@
+2024-01-22 08:03:59.419 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/lucas/.mosint.yaml","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2024-01-22 08:03:59.818 [error] Extension 'ms-toolsai.jupyter' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): notebookControllerKind, notebookDeprecated, notebookMessaging, notebookMime, notebookCellExecutionState, portsAttributes, quickPickSortByLabel, notebookKernelSource, interactiveWindow, notebookControllerAffinityHidden, quickPickItemTooltip
+product.json (WINS): notebookControllerKind, notebookDeprecated, notebookMessaging, notebookMime, notebookCellExecutionState, portsAttributes, quickPickSortByLabel, notebookKernelSource, interactiveWindow, notebookControllerAffinityHidden, contribNotebookStaticPreloads
+2024-01-22 08:04:00.261 [error] [xabikos.JavaScriptSnippets]: Unknown language in `contributes.JavaScriptSnippets.language`. Provided value: vue
+2024-01-22 08:04:02.691 [info] [perf] Render performance baseline is 26ms

@@ -1,0 +1,8 @@
+2024-02-14 17:25:25.899 [info] update#ctor - updates are disabled as there is no update URL
+2024-02-14 17:25:26.818 [info] Starting extension host with pid 24781 (fork() took 6 ms).
+2024-02-14 17:44:01.231 [info] Starting extension host with pid 27380 (fork() took 7 ms).
+2024-02-14 17:56:30.673 [info] Extension host with pid 27380 exited with code: 0, signal: null.
+2024-02-14 18:42:25.920 [info] Starting extension host with pid 32782 (fork() took 10 ms).
+2024-02-14 18:44:09.843 [info] Extension host with pid 32782 exited with code: 0, signal: null.
+2024-02-14 18:48:22.996 [info] Waiting for extension host with pid 24781 to exit.
+2024-02-14 18:48:23.068 [info] Extension host with pid 24781 exited with code: 0, signal: null.

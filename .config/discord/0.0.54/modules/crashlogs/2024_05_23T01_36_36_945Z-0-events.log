@@ -1,0 +1,48 @@
+2024-05-23T01:36:36.956Z 0: 
+
+----------------------------------------------
+2024-05-23T01:36:36.968Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.54"}, modulepath: /home/lucas/.config/discord/0.0.54/modules
+2024-05-23T01:36:36.977Z 2: ✅ webContents.created web1 ""
+2024-05-23T01:36:37.002Z 3: ✅ window.created win1 "discord"
+2024-05-23T01:36:37.189Z 4: ✅ webContents.did-finish-load web1
+2024-05-23T01:36:40.781Z 5: ✅ webContents.created web2 ""
+2024-05-23T01:36:40.791Z 6: ✅ window.created win2 "Discord"
+2024-05-23T01:36:42.181Z 7: ✅ webContents.did-finish-load web2
+2024-05-23T01:36:42.270Z 8: window.close win1
+2024-05-23T01:36:42.289Z 9: webContents.destroyed web1
+2024-05-23T01:36:42.295Z 10: window.closed win1
+2024-05-23T01:41:34.053Z 11: before-quit
+2024-05-23T01:41:34.074Z 12: window.close win2
+2024-05-23T01:41:34.081Z 13: ❌ child-process-gone {
+  type: 'Utility',
+  reason: 'killed',
+  exitCode: 15,
+  serviceName: 'audio.mojom.AudioService',
+  name: 'Audio Service'
+}
+2024-05-23T01:41:46.085Z 0: 
+
+----------------------------------------------
+2024-05-23T01:41:46.097Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.54"}, modulepath: /home/lucas/.config/discord/0.0.54/modules
+2024-05-23T01:41:46.114Z 2: ✅ webContents.created web1 ""
+2024-05-23T01:41:46.117Z 3: ✅ window.created win1 "discord"
+2024-05-23T01:41:46.289Z 4: ✅ webContents.did-finish-load web1
+2024-05-23T01:41:51.604Z 5: ✅ webContents.created web2 ""
+2024-05-23T01:41:51.610Z 6: ✅ window.created win2 "Discord"
+2024-05-23T01:41:53.017Z 7: ✅ webContents.did-finish-load web2
+2024-05-23T01:41:53.123Z 8: window.close win1
+2024-05-23T01:41:53.158Z 9: webContents.destroyed web1
+2024-05-23T01:41:53.163Z 10: window.closed win1
+2024-05-23T01:52:52.505Z 0: 
+
+----------------------------------------------
+2024-05-23T01:52:52.519Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.54"}, modulepath: /home/lucas/.config/discord/0.0.54/modules
+2024-05-23T01:52:52.529Z 2: ✅ webContents.created web1 ""
+2024-05-23T01:52:52.533Z 3: ✅ window.created win1 "discord"
+2024-05-23T01:52:52.711Z 4: ✅ webContents.did-finish-load web1
+2024-05-23T01:52:52.949Z 5: ✅ webContents.created web2 ""
+2024-05-23T01:52:52.955Z 6: ✅ window.created win2 "Discord"
+2024-05-23T01:52:54.316Z 7: ✅ webContents.did-finish-load web2
+2024-05-23T01:52:54.413Z 8: window.close win1
+2024-05-23T01:52:54.439Z 9: webContents.destroyed web1
+2024-05-23T01:52:54.442Z 10: window.closed win1

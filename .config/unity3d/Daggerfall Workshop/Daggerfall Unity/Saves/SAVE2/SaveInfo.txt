@@ -1,0 +1,12 @@
+{
+    "saveVersion": 1,
+    "saveName": "Start",
+    "characterName": "Wilnara",
+    "dateAndTime": {
+        "gameTime": 12597427830,
+        "realTime": 638144903843393320,
+        "$version": "v1"
+    },
+    "dfuVersion": "0.14.5",
+    "$version": "v1"
+}

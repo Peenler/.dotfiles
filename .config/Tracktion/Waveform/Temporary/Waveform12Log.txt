@@ -1,0 +1,611 @@
+
+**********************************************************
+Waveform 64-bit version: 12.5.11 (Built: 26 June 2023)
+Log started: 19 Nov 2023 12:08:31pm
+
+19 Nov 2023 12:08:31  Initialising...
+19 Nov 2023 12:08:31  Finding MIDI I/O
+19 Nov 2023 12:08:31  MIDI output: Midi Through Port-0 (enabled)
+19 Nov 2023 12:08:31  opening MIDI out device:Midi Through Port-0
+19 Nov 2023 12:08:31  MIDI input: Midi Through Port-0 (enabled)
+19 Nov 2023 12:08:31  opening MIDI in device: Midi Through Port-0
+19 Nov 2023 12:08:31  Wrote settings file: /home/lucas/.config/Tracktion/Waveform/Waveform.settings
+19 Nov 2023 12:08:31  ALSA: scanForDevices()
+19 Nov 2023 12:08:31  ALSA: ID: null; desc: Discard all samples (playback) or generate zero samples (capture); ioid: 
+19 Nov 2023 12:08:31  ALSA: ID: lavrate; desc: Rate Converter Plugin Using Libav/FFmpeg Library; ioid: 
+19 Nov 2023 12:08:31  ALSA: ID: samplerate; desc: Rate Converter Plugin Using Samplerate Library; ioid: 
+19 Nov 2023 12:08:31  ALSA: ID: speexrate; desc: Rate Converter Plugin Using Speex Resampler; ioid: 
+19 Nov 2023 12:08:31  ALSA: ID: jack; desc: JACK Audio Connection Kit; ioid: 
+19 Nov 2023 12:08:31  ALSA: ID: oss; desc: Open Sound System; ioid: 
+19 Nov 2023 12:08:31  ALSA: ID: pipewire; desc: PipeWire Sound Server; ioid: 
+19 Nov 2023 12:08:31  ALSA: ID: pulse; desc: PulseAudio Sound Server; ioid: 
+19 Nov 2023 12:08:31  ALSA: ID: speex; desc: Plugin using Speex DSP (resample, agc, denoise, echo, dereverb); ioid: 
+19 Nov 2023 12:08:31  ALSA: ID: upmix; desc: Plugin for channel upmix (4,6,8); ioid: 
+19 Nov 2023 12:08:31  ALSA: ID: vdownmix; desc: Plugin for channel downmix (stereo) with a simple spacialization; ioid: 
+19 Nov 2023 12:08:31  ALSA: ID: default; desc: Default ALSA Output (currently PulseAudio Sound Server); ioid: 
+19 Nov 2023 12:08:31  ALSA: ID: sysdefault:CARD=PCH; desc: HDA Intel PCH, ALC256 Analog
+Default Audio Device; ioid: 
+19 Nov 2023 12:08:31  ALSA: ID: front:CARD=PCH,DEV=0; desc: HDA Intel PCH, ALC256 Analog
+Front output / input; ioid: 
+19 Nov 2023 12:08:31  ALSA: ID: surround21:CARD=PCH,DEV=0; desc: HDA Intel PCH, ALC256 Analog
+2.1 Surround output to Front and Subwoofer speakers; ioid: Output
+19 Nov 2023 12:08:31  ALSA: ID: surround40:CARD=PCH,DEV=0; desc: HDA Intel PCH, ALC256 Analog
+4.0 Surround output to Front and Rear speakers; ioid: Output
+19 Nov 2023 12:08:31  ALSA: ID: surround41:CARD=PCH,DEV=0; desc: HDA Intel PCH, ALC256 Analog
+4.1 Surround output to Front, Rear and Subwoofer speakers; ioid: Output
+19 Nov 2023 12:08:31  ALSA: ID: surround50:CARD=PCH,DEV=0; desc: HDA Intel PCH, ALC256 Analog
+5.0 Surround output to Front, Center and Rear speakers; ioid: Output
+19 Nov 2023 12:08:31  ALSA: ID: surround51:CARD=PCH,DEV=0; desc: HDA Intel PCH, ALC256 Analog
+5.1 Surround output to Front, Center, Rear and Subwoofer speakers; ioid: Output
+19 Nov 2023 12:08:31  ALSA: ID: surround71:CARD=PCH,DEV=0; desc: HDA Intel PCH, ALC256 Analog
+7.1 Surround output to Front, Center, Side, Rear and Woofer speakers; ioid: Output
+19 Nov 2023 12:08:31  ALSA: ID: hdmi:CARD=PCH,DEV=0; desc: HDA Intel PCH, HDMI 0
+HDMI Audio Output; ioid: Output
+19 Nov 2023 12:08:31  ALSA: ID: hdmi:CARD=PCH,DEV=1; desc: HDA Intel PCH, HDMI 1
+HDMI Audio Output; ioid: Output
+19 Nov 2023 12:08:31  ALSA: ID: hdmi:CARD=PCH,DEV=2; desc: HDA Intel PCH, HDMI 2
+HDMI Audio Output; ioid: Output
+19 Nov 2023 12:08:31  ALSA: ID: hdmi:CARD=PCH,DEV=3; desc: HDA Intel PCH, HDMI 3
+HDMI Audio Output; ioid: Output
+19 Nov 2023 12:08:31  ALSA: ID: usbstream:CARD=PCH; desc: HDA Intel PCH
+USB Stream Output; ioid: 
+19 Nov 2023 12:08:31  ALSA: getDeviceProperties(default)
+19 Nov 2023 12:08:31  ALSA: getDeviceNumChannels: 1 32
+19 Nov 2023 12:08:31  ALSA: getDeviceProperties(default)
+19 Nov 2023 12:08:31  ALSA: getDeviceNumChannels: 1 32
+19 Nov 2023 12:08:31  ALSA: getDeviceProperties(default)
+19 Nov 2023 12:08:31  ALSA: getDeviceNumChannels: 1 32
+19 Nov 2023 12:08:31  ALSA: getDeviceProperties(default)
+19 Nov 2023 12:08:31  ALSA: getDeviceNumChannels: 1 32
+19 Nov 2023 12:08:31  ALSA: snd_pcm_open (default, forInput=1)
+19 Nov 2023 12:08:31  ALSA: ALSADevice::setParameters(default, 44100, 32, 512)
+19 Nov 2023 12:08:31  ALSA: format: bitDepth=32, isFloat=1, isLittleEndian=1, numChannels=32
+19 Nov 2023 12:08:31  ALSA: frames: 512, periods: 4, samplesPerPeriod: 512
+19 Nov 2023 12:08:31  ALSA: snd_pcm_open (default, forInput=0)
+19 Nov 2023 12:08:31  ALSA: ALSADevice::setParameters(default, 44100, 32, 512)
+19 Nov 2023 12:08:31  ALSA: format: bitDepth=32, isFloat=1, isLittleEndian=1, numChannels=32
+19 Nov 2023 12:08:31  ALSA: frames: 512, periods: 4, samplesPerPeriod: 512
+19 Nov 2023 12:08:31  Audio block size: 512  Rate: 44100
+19 Nov 2023 12:08:31  Rebuilding Wave Device List...
+19 Nov 2023 12:08:31  Wave In: channel 1 (enabled): 0 (L)
+19 Nov 2023 12:08:31  Wave In: channel 2 (enabled): 1 (L)
+19 Nov 2023 12:08:31  Wave In: channel 3: 2 (L)
+19 Nov 2023 12:08:31  Wave In: channel 4: 3 (L)
+19 Nov 2023 12:08:31  Wave In: channel 5: 4 (L)
+19 Nov 2023 12:08:31  Wave In: channel 6: 5 (L)
+19 Nov 2023 12:08:31  Wave In: channel 7: 6 (L)
+19 Nov 2023 12:08:31  Wave In: channel 8: 7 (L)
+19 Nov 2023 12:08:31  Wave In: channel 9: 8 (L)
+19 Nov 2023 12:08:31  Wave In: channel 10: 9 (L)
+19 Nov 2023 12:08:31  Wave In: channel 11: 10 (L)
+19 Nov 2023 12:08:31  Wave In: channel 12: 11 (L)
+19 Nov 2023 12:08:31  Wave In: channel 13: 12 (L)
+19 Nov 2023 12:08:31  Wave In: channel 14: 13 (L)
+19 Nov 2023 12:08:31  Wave In: channel 15: 14 (L)
+19 Nov 2023 12:08:31  Wave In: channel 16: 15 (L)
+19 Nov 2023 12:08:31  Wave In: channel 17: 16 (L)
+19 Nov 2023 12:08:31  Wave In: channel 18: 17 (L)
+19 Nov 2023 12:08:31  Wave In: channel 19: 18 (L)
+19 Nov 2023 12:08:31  Wave In: channel 20: 19 (L)
+19 Nov 2023 12:08:31  Wave In: channel 21: 20 (L)
+19 Nov 2023 12:08:31  Wave In: channel 22: 21 (L)
+19 Nov 2023 12:08:31  Wave In: channel 23: 22 (L)
+19 Nov 2023 12:08:31  Wave In: channel 24: 23 (L)
+19 Nov 2023 12:08:31  Wave In: channel 25: 24 (L)
+19 Nov 2023 12:08:31  Wave In: channel 26: 25 (L)
+19 Nov 2023 12:08:31  Wave In: channel 27: 26 (L)
+19 Nov 2023 12:08:31  Wave In: channel 28: 27 (L)
+19 Nov 2023 12:08:31  Wave In: channel 29: 28 (L)
+19 Nov 2023 12:08:31  Wave In: channel 30: 29 (L)
+19 Nov 2023 12:08:31  Wave In: channel 31: 30 (L)
+19 Nov 2023 12:08:31  Wave In: channel 32: 31 (L)
+19 Nov 2023 12:08:31  Wave Out: channel 1 + 2 (enabled): 0 (L), 1 (R)
+19 Nov 2023 12:08:31  Wave Out: channel 3 + 4: 2 (L), 3 (R)
+19 Nov 2023 12:08:31  Wave Out: channel 5 + 6: 4 (L), 5 (R)
+19 Nov 2023 12:08:31  Wave Out: channel 7 + 8: 6 (L), 7 (R)
+19 Nov 2023 12:08:31  Wave Out: channel 9 + 10: 8 (L), 9 (R)
+19 Nov 2023 12:08:31  Wave Out: channel 11 + 12: 10 (L), 11 (R)
+19 Nov 2023 12:08:31  Wave Out: channel 13 + 14: 12 (L), 13 (R)
+19 Nov 2023 12:08:31  Wave Out: channel 15 + 16: 14 (L), 15 (R)
+19 Nov 2023 12:08:31  Wave Out: channel 17 + 18: 16 (L), 17 (R)
+19 Nov 2023 12:08:31  Wave Out: channel 19 + 20: 18 (L), 19 (R)
+19 Nov 2023 12:08:31  Wave Out: channel 21 + 22: 20 (L), 21 (R)
+19 Nov 2023 12:08:31  Wave Out: channel 23 + 24: 22 (L), 23 (R)
+19 Nov 2023 12:08:31  Wave Out: channel 25 + 26: 24 (L), 25 (R)
+19 Nov 2023 12:08:31  Wave Out: channel 27 + 28: 26 (L), 27 (R)
+19 Nov 2023 12:08:31  Wave Out: channel 29 + 30: 28 (L), 29 (R)
+19 Nov 2023 12:08:31  Wave Out: channel 31 + 32: 30 (L), 31 (R)
+19 Nov 2023 12:08:31  Default Wave Out: channel 1 + 2
+19 Nov 2023 12:08:31  Default MIDI Out: Midi Through Port-0
+19 Nov 2023 12:08:31  Default Wave In: channel 1
+19 Nov 2023 12:08:31  Default MIDI In: Midi Through Port-0
+19 Nov 2023 12:08:31  Creating Default Controllers...
+19 Nov 2023 12:08:31  Loading Custom Controllers...
+19 Nov 2023 12:08:31  userID: 43eb1b43-fad2-460d-8bab-a1ad6bed0670
+19 Nov 2023 12:08:31  Initialising windows...
+19 Nov 2023 12:08:31  Language: en
+19 Nov 2023 12:08:31  Initialising plugins...
+19 Nov 2023 12:08:31  Deleting factory presets
+19 Nov 2023 12:08:31  Image database loaded 0 images in 2 ms seconds
+19 Nov 2023 12:08:31  Converting legacy patterns
+19 Nov 2023 12:08:31  Doing first-run setup...
+19 Nov 2023 12:08:31  EULA...
+19 Nov 2023 12:08:31  Loop library loaded 0 loops in 43 ms
+19 Nov 2023 12:08:34  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:08:35  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:08:36  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:08:36  Preset database loaded 918 presets in 5 secs seconds
+19 Nov 2023 12:08:40  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:08:44  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:08:45  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:08:45  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:08:46  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:08:48  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:08:53  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:08:56  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:08:58  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:09:00  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:09:00  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:09:00  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:09:03  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:09:03  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:09:08  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:09:10  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:09:11  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:09:13  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:09:15  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:09:16  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:09:18  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:09:18  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:09:18  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:09:20  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:09:23  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:09:24  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:09:26  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:09:26  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:09:29  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:09:29  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:09:32  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:09:32  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:09:34  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:09:36  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:09:37  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:09:39  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:09:39  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:09:40  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:09:42  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:09:42  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:09:43  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:09:50  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:09:51  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:09:53  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:09:56  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:09:58  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:10:00  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:10:00  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:10:07  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:10:08  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:10:13  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+
+**********************************************************
+Waveform 64-bit version: 12.5.11 (Built: 26 June 2023)
+Log started: 19 Nov 2023 12:10:28pm
+
+19 Nov 2023 12:10:28  Initialising...
+19 Nov 2023 12:10:28  Finding MIDI I/O
+19 Nov 2023 12:10:28  MIDI output: Midi Through Port-0 (enabled)
+19 Nov 2023 12:10:28  opening MIDI out device:Midi Through Port-0
+19 Nov 2023 12:10:28  MIDI input: Midi Through Port-0 (enabled)
+19 Nov 2023 12:10:28  opening MIDI in device: Midi Through Port-0
+19 Nov 2023 12:10:28  Wrote settings file: /home/lucas/.config/Tracktion/Waveform/Waveform.settings
+19 Nov 2023 12:10:28  ALSA: scanForDevices()
+19 Nov 2023 12:10:28  ALSA: ID: null; desc: Discard all samples (playback) or generate zero samples (capture); ioid: 
+19 Nov 2023 12:10:28  ALSA: ID: lavrate; desc: Rate Converter Plugin Using Libav/FFmpeg Library; ioid: 
+19 Nov 2023 12:10:28  ALSA: ID: samplerate; desc: Rate Converter Plugin Using Samplerate Library; ioid: 
+19 Nov 2023 12:10:28  ALSA: ID: speexrate; desc: Rate Converter Plugin Using Speex Resampler; ioid: 
+19 Nov 2023 12:10:28  ALSA: ID: jack; desc: JACK Audio Connection Kit; ioid: 
+19 Nov 2023 12:10:28  ALSA: ID: oss; desc: Open Sound System; ioid: 
+19 Nov 2023 12:10:28  ALSA: ID: pipewire; desc: PipeWire Sound Server; ioid: 
+19 Nov 2023 12:10:28  ALSA: ID: pulse; desc: PulseAudio Sound Server; ioid: 
+19 Nov 2023 12:10:28  ALSA: ID: speex; desc: Plugin using Speex DSP (resample, agc, denoise, echo, dereverb); ioid: 
+19 Nov 2023 12:10:28  ALSA: ID: upmix; desc: Plugin for channel upmix (4,6,8); ioid: 
+19 Nov 2023 12:10:28  ALSA: ID: vdownmix; desc: Plugin for channel downmix (stereo) with a simple spacialization; ioid: 
+19 Nov 2023 12:10:28  ALSA: ID: default; desc: Default ALSA Output (currently PulseAudio Sound Server); ioid: 
+19 Nov 2023 12:10:28  ALSA: ID: sysdefault:CARD=PCH; desc: HDA Intel PCH, ALC256 Analog
+Default Audio Device; ioid: 
+19 Nov 2023 12:10:28  ALSA: ID: front:CARD=PCH,DEV=0; desc: HDA Intel PCH, ALC256 Analog
+Front output / input; ioid: 
+19 Nov 2023 12:10:28  ALSA: ID: surround21:CARD=PCH,DEV=0; desc: HDA Intel PCH, ALC256 Analog
+2.1 Surround output to Front and Subwoofer speakers; ioid: Output
+19 Nov 2023 12:10:28  ALSA: ID: surround40:CARD=PCH,DEV=0; desc: HDA Intel PCH, ALC256 Analog
+4.0 Surround output to Front and Rear speakers; ioid: Output
+19 Nov 2023 12:10:28  ALSA: ID: surround41:CARD=PCH,DEV=0; desc: HDA Intel PCH, ALC256 Analog
+4.1 Surround output to Front, Rear and Subwoofer speakers; ioid: Output
+19 Nov 2023 12:10:28  ALSA: ID: surround50:CARD=PCH,DEV=0; desc: HDA Intel PCH, ALC256 Analog
+5.0 Surround output to Front, Center and Rear speakers; ioid: Output
+19 Nov 2023 12:10:28  ALSA: ID: surround51:CARD=PCH,DEV=0; desc: HDA Intel PCH, ALC256 Analog
+5.1 Surround output to Front, Center, Rear and Subwoofer speakers; ioid: Output
+19 Nov 2023 12:10:28  ALSA: ID: surround71:CARD=PCH,DEV=0; desc: HDA Intel PCH, ALC256 Analog
+7.1 Surround output to Front, Center, Side, Rear and Woofer speakers; ioid: Output
+19 Nov 2023 12:10:28  ALSA: ID: hdmi:CARD=PCH,DEV=0; desc: HDA Intel PCH, HDMI 0
+HDMI Audio Output; ioid: Output
+19 Nov 2023 12:10:28  ALSA: ID: hdmi:CARD=PCH,DEV=1; desc: HDA Intel PCH, HDMI 1
+HDMI Audio Output; ioid: Output
+19 Nov 2023 12:10:28  ALSA: ID: hdmi:CARD=PCH,DEV=2; desc: HDA Intel PCH, HDMI 2
+HDMI Audio Output; ioid: Output
+19 Nov 2023 12:10:28  ALSA: ID: hdmi:CARD=PCH,DEV=3; desc: HDA Intel PCH, HDMI 3
+HDMI Audio Output; ioid: Output
+19 Nov 2023 12:10:28  ALSA: ID: usbstream:CARD=PCH; desc: HDA Intel PCH
+USB Stream Output; ioid: 
+19 Nov 2023 12:10:28  ALSA: getDeviceProperties(default)
+19 Nov 2023 12:10:28  ALSA: getDeviceNumChannels: 1 32
+19 Nov 2023 12:10:28  ALSA: getDeviceProperties(default)
+19 Nov 2023 12:10:28  ALSA: getDeviceNumChannels: 1 32
+19 Nov 2023 12:10:28  ALSA: getDeviceProperties(default)
+19 Nov 2023 12:10:28  ALSA: getDeviceNumChannels: 1 32
+19 Nov 2023 12:10:28  ALSA: getDeviceProperties(default)
+19 Nov 2023 12:10:28  ALSA: getDeviceNumChannels: 1 32
+19 Nov 2023 12:10:28  ALSA: snd_pcm_open (default, forInput=1)
+19 Nov 2023 12:10:28  ALSA: ALSADevice::setParameters(default, 44100, 32, 512)
+19 Nov 2023 12:10:28  ALSA: format: bitDepth=32, isFloat=1, isLittleEndian=1, numChannels=32
+19 Nov 2023 12:10:28  ALSA: frames: 512, periods: 4, samplesPerPeriod: 512
+19 Nov 2023 12:10:28  ALSA: snd_pcm_open (default, forInput=0)
+19 Nov 2023 12:10:28  ALSA: ALSADevice::setParameters(default, 44100, 32, 512)
+19 Nov 2023 12:10:28  ALSA: format: bitDepth=32, isFloat=1, isLittleEndian=1, numChannels=32
+19 Nov 2023 12:10:28  ALSA: frames: 512, periods: 4, samplesPerPeriod: 512
+19 Nov 2023 12:10:28  Audio block size: 512  Rate: 44100
+19 Nov 2023 12:10:28  Rebuilding Wave Device List...
+19 Nov 2023 12:10:28  Wave In: channel 1 (enabled): 0 (L)
+19 Nov 2023 12:10:28  Wave In: channel 2 (enabled): 1 (L)
+19 Nov 2023 12:10:28  Wave In: channel 3: 2 (L)
+19 Nov 2023 12:10:28  Wave In: channel 4: 3 (L)
+19 Nov 2023 12:10:28  Wave In: channel 5: 4 (L)
+19 Nov 2023 12:10:28  Wave In: channel 6: 5 (L)
+19 Nov 2023 12:10:28  Wave In: channel 7: 6 (L)
+19 Nov 2023 12:10:28  Wave In: channel 8: 7 (L)
+19 Nov 2023 12:10:28  Wave In: channel 9: 8 (L)
+19 Nov 2023 12:10:28  Wave In: channel 10: 9 (L)
+19 Nov 2023 12:10:28  Wave In: channel 11: 10 (L)
+19 Nov 2023 12:10:28  Wave In: channel 12: 11 (L)
+19 Nov 2023 12:10:28  Wave In: channel 13: 12 (L)
+19 Nov 2023 12:10:28  Wave In: channel 14: 13 (L)
+19 Nov 2023 12:10:28  Wave In: channel 15: 14 (L)
+19 Nov 2023 12:10:28  Wave In: channel 16: 15 (L)
+19 Nov 2023 12:10:28  Wave In: channel 17: 16 (L)
+19 Nov 2023 12:10:28  Wave In: channel 18: 17 (L)
+19 Nov 2023 12:10:28  Wave In: channel 19: 18 (L)
+19 Nov 2023 12:10:28  Wave In: channel 20: 19 (L)
+19 Nov 2023 12:10:28  Wave In: channel 21: 20 (L)
+19 Nov 2023 12:10:28  Wave In: channel 22: 21 (L)
+19 Nov 2023 12:10:28  Wave In: channel 23: 22 (L)
+19 Nov 2023 12:10:28  Wave In: channel 24: 23 (L)
+19 Nov 2023 12:10:28  Wave In: channel 25: 24 (L)
+19 Nov 2023 12:10:28  Wave In: channel 26: 25 (L)
+19 Nov 2023 12:10:28  Wave In: channel 27: 26 (L)
+19 Nov 2023 12:10:28  Wave In: channel 28: 27 (L)
+19 Nov 2023 12:10:28  Wave In: channel 29: 28 (L)
+19 Nov 2023 12:10:28  Wave In: channel 30: 29 (L)
+19 Nov 2023 12:10:28  Wave In: channel 31: 30 (L)
+19 Nov 2023 12:10:28  Wave In: channel 32: 31 (L)
+19 Nov 2023 12:10:28  Wave Out: channel 1 + 2 (enabled): 0 (L), 1 (R)
+19 Nov 2023 12:10:28  Wave Out: channel 3 + 4: 2 (L), 3 (R)
+19 Nov 2023 12:10:28  Wave Out: channel 5 + 6: 4 (L), 5 (R)
+19 Nov 2023 12:10:28  Wave Out: channel 7 + 8: 6 (L), 7 (R)
+19 Nov 2023 12:10:28  Wave Out: channel 9 + 10: 8 (L), 9 (R)
+19 Nov 2023 12:10:28  Wave Out: channel 11 + 12: 10 (L), 11 (R)
+19 Nov 2023 12:10:28  Wave Out: channel 13 + 14: 12 (L), 13 (R)
+19 Nov 2023 12:10:28  Wave Out: channel 15 + 16: 14 (L), 15 (R)
+19 Nov 2023 12:10:28  Wave Out: channel 17 + 18: 16 (L), 17 (R)
+19 Nov 2023 12:10:28  Wave Out: channel 19 + 20: 18 (L), 19 (R)
+19 Nov 2023 12:10:28  Wave Out: channel 21 + 22: 20 (L), 21 (R)
+19 Nov 2023 12:10:28  Wave Out: channel 23 + 24: 22 (L), 23 (R)
+19 Nov 2023 12:10:28  Wave Out: channel 25 + 26: 24 (L), 25 (R)
+19 Nov 2023 12:10:28  Wave Out: channel 27 + 28: 26 (L), 27 (R)
+19 Nov 2023 12:10:28  Wave Out: channel 29 + 30: 28 (L), 29 (R)
+19 Nov 2023 12:10:28  Wave Out: channel 31 + 32: 30 (L), 31 (R)
+19 Nov 2023 12:10:28  Default Wave Out: channel 1 + 2
+19 Nov 2023 12:10:28  Default MIDI Out: Midi Through Port-0
+19 Nov 2023 12:10:28  Default Wave In: channel 1
+19 Nov 2023 12:10:28  Default MIDI In: Midi Through Port-0
+19 Nov 2023 12:10:28  Creating Default Controllers...
+19 Nov 2023 12:10:28  Loading Custom Controllers...
+19 Nov 2023 12:10:28  Initialising windows...
+19 Nov 2023 12:10:28  Language: en
+19 Nov 2023 12:10:28  Initialising plugins...
+19 Nov 2023 12:10:28  Image database loaded 0 images in 1 ms seconds
+19 Nov 2023 12:10:28  Doing first-run setup...
+19 Nov 2023 12:10:28  EULA...
+19 Nov 2023 12:10:28  Loop library loaded 3 loops in 45 ms
+19 Nov 2023 12:10:28  Preset database loaded 918 presets in 161 ms seconds
+19 Nov 2023 12:10:31  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:10:31  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:10:33  Installer...
+19 Nov 2023 12:10:35  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:10:35  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:10:35  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:10:36  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:10:39  First-run setup complete...
+19 Nov 2023 12:10:39  Wrote settings file: /home/lucas/.config/Tracktion/Waveform/Waveform.settings
+19 Nov 2023 12:10:39  Wrote settings file: /home/lucas/.config/Tracktion/Waveform/Waveform.settings
+19 Nov 2023 12:10:39  /usr/bin/Waveform12
+19 Nov 2023 12:10:39  Linux
+19 Nov 2023 12:10:39  CPU: 1736MHz  Cores: 12  7639MB
+19 Nov 2023 12:10:39  Events file size: 53 bytes
+19 Nov 2023 12:10:39  Initialising file formats...
+19 Nov 2023 12:10:39  Initialising projects...
+19 Nov 2023 12:10:39  Initialising devices...
+19 Nov 2023 12:10:39  Initialising ReWire...
+19 Nov 2023 12:10:39  Reloading Windows...
+19 Nov 2023 12:10:39  Wrote settings file: /home/lucas/.config/Tracktion/Waveform/Waveform.settings
+19 Nov 2023 12:10:39  Machine ID: LF8872CF06:L0A0B1C514 D
+19 Nov 2023 12:10:39  Feature set: auto
+19 Nov 2023 12:10:39  Starting checking for updates
+19 Nov 2023 12:10:39  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:10:40  Finished checking for updates: 1 sec
+19 Nov 2023 12:10:41  Wrote settings file: /home/lucas/.config/Tracktion/Waveform/Waveform.settings
+19 Nov 2023 12:10:42  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:10:46  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:10:47  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:10:52  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:10:52  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:10:53  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:10:54  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:10:55  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:10:55  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:10:56  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:10:58  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:11:00  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:11:01  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:11:01  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:11:02  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:11:03  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:11:03  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:11:07  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:11:10  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:11:11  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:11:11  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:11:11  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:11:12  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:11:13  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:11:13  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:11:14  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:11:18  Wrote settings file: /home/lucas/.config/Tracktion/Waveform/Waveform.settings
+19 Nov 2023 12:11:19  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:11:20  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:11:21  Wrote settings file: /home/lucas/.config/Tracktion/Waveform/Waveform.settings
+19 Nov 2023 12:11:23  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:11:26  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:11:28  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:11:29  Closing window..
+19 Nov 2023 12:11:29  Wrote settings file: /home/lucas/.config/Tracktion/Waveform/Waveform.settings
+19 Nov 2023 12:11:29  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:11:30  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:11:30  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:11:31  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:11:32  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:11:32  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:11:34  !! killing thread by force !!
+19 Nov 2023 12:11:34  Crash Location: UnknownLocation
+19 Nov 2023 12:11:34  Maintenance took: 5 ms
+19 Nov 2023 12:11:34  Crashed
+19 Nov 2023 12:11:34  
+
+19 Nov 2023 12:11:34  Thread 0:
+19 Nov 2023 12:11:34    0: MainWindow.cpp:~MainWindow:3234
+19 Nov 2023 12:11:34    1: WindowManager.cpp:removeWindow:473
+
+**********************************************************
+Waveform 64-bit version: 12.5.11 (Built: 26 June 2023)
+Log started: 19 Nov 2023 12:11:38pm
+
+19 Nov 2023 12:11:38  Initialising...
+19 Nov 2023 12:11:38  Finding MIDI I/O
+19 Nov 2023 12:11:38  MIDI output: Midi Through Port-0 (enabled)
+19 Nov 2023 12:11:38  opening MIDI out device:Midi Through Port-0
+19 Nov 2023 12:11:38  MIDI input: Midi Through Port-0 (enabled)
+19 Nov 2023 12:11:38  opening MIDI in device: Midi Through Port-0
+19 Nov 2023 12:11:39  Wrote settings file: /home/lucas/.config/Tracktion/Waveform/Waveform.settings
+19 Nov 2023 12:11:39  ALSA: scanForDevices()
+19 Nov 2023 12:11:39  ALSA: ID: null; desc: Discard all samples (playback) or generate zero samples (capture); ioid: 
+19 Nov 2023 12:11:39  ALSA: ID: lavrate; desc: Rate Converter Plugin Using Libav/FFmpeg Library; ioid: 
+19 Nov 2023 12:11:39  ALSA: ID: samplerate; desc: Rate Converter Plugin Using Samplerate Library; ioid: 
+19 Nov 2023 12:11:39  ALSA: ID: speexrate; desc: Rate Converter Plugin Using Speex Resampler; ioid: 
+19 Nov 2023 12:11:39  ALSA: ID: jack; desc: JACK Audio Connection Kit; ioid: 
+19 Nov 2023 12:11:39  ALSA: ID: oss; desc: Open Sound System; ioid: 
+19 Nov 2023 12:11:39  ALSA: ID: pipewire; desc: PipeWire Sound Server; ioid: 
+19 Nov 2023 12:11:39  ALSA: ID: pulse; desc: PulseAudio Sound Server; ioid: 
+19 Nov 2023 12:11:39  ALSA: ID: speex; desc: Plugin using Speex DSP (resample, agc, denoise, echo, dereverb); ioid: 
+19 Nov 2023 12:11:39  ALSA: ID: upmix; desc: Plugin for channel upmix (4,6,8); ioid: 
+19 Nov 2023 12:11:39  ALSA: ID: vdownmix; desc: Plugin for channel downmix (stereo) with a simple spacialization; ioid: 
+19 Nov 2023 12:11:39  ALSA: ID: default; desc: Default ALSA Output (currently PulseAudio Sound Server); ioid: 
+19 Nov 2023 12:11:39  ALSA: ID: sysdefault:CARD=PCH; desc: HDA Intel PCH, ALC256 Analog
+Default Audio Device; ioid: 
+19 Nov 2023 12:11:39  ALSA: ID: front:CARD=PCH,DEV=0; desc: HDA Intel PCH, ALC256 Analog
+Front output / input; ioid: 
+19 Nov 2023 12:11:39  ALSA: ID: surround21:CARD=PCH,DEV=0; desc: HDA Intel PCH, ALC256 Analog
+2.1 Surround output to Front and Subwoofer speakers; ioid: Output
+19 Nov 2023 12:11:39  ALSA: ID: surround40:CARD=PCH,DEV=0; desc: HDA Intel PCH, ALC256 Analog
+4.0 Surround output to Front and Rear speakers; ioid: Output
+19 Nov 2023 12:11:39  ALSA: ID: surround41:CARD=PCH,DEV=0; desc: HDA Intel PCH, ALC256 Analog
+4.1 Surround output to Front, Rear and Subwoofer speakers; ioid: Output
+19 Nov 2023 12:11:39  ALSA: ID: surround50:CARD=PCH,DEV=0; desc: HDA Intel PCH, ALC256 Analog
+5.0 Surround output to Front, Center and Rear speakers; ioid: Output
+19 Nov 2023 12:11:39  ALSA: ID: surround51:CARD=PCH,DEV=0; desc: HDA Intel PCH, ALC256 Analog
+5.1 Surround output to Front, Center, Rear and Subwoofer speakers; ioid: Output
+19 Nov 2023 12:11:39  ALSA: ID: surround71:CARD=PCH,DEV=0; desc: HDA Intel PCH, ALC256 Analog
+7.1 Surround output to Front, Center, Side, Rear and Woofer speakers; ioid: Output
+19 Nov 2023 12:11:39  ALSA: ID: hdmi:CARD=PCH,DEV=0; desc: HDA Intel PCH, HDMI 0
+HDMI Audio Output; ioid: Output
+19 Nov 2023 12:11:39  ALSA: ID: hdmi:CARD=PCH,DEV=1; desc: HDA Intel PCH, HDMI 1
+HDMI Audio Output; ioid: Output
+19 Nov 2023 12:11:39  ALSA: ID: hdmi:CARD=PCH,DEV=2; desc: HDA Intel PCH, HDMI 2
+HDMI Audio Output; ioid: Output
+19 Nov 2023 12:11:39  ALSA: ID: hdmi:CARD=PCH,DEV=3; desc: HDA Intel PCH, HDMI 3
+HDMI Audio Output; ioid: Output
+19 Nov 2023 12:11:39  ALSA: ID: usbstream:CARD=PCH; desc: HDA Intel PCH
+USB Stream Output; ioid: 
+19 Nov 2023 12:11:39  ALSA: getDeviceProperties(default)
+19 Nov 2023 12:11:39  ALSA: getDeviceNumChannels: 1 32
+19 Nov 2023 12:11:39  ALSA: getDeviceProperties(default)
+19 Nov 2023 12:11:39  ALSA: getDeviceNumChannels: 1 32
+19 Nov 2023 12:11:39  ALSA: getDeviceProperties(default)
+19 Nov 2023 12:11:39  ALSA: getDeviceNumChannels: 1 32
+19 Nov 2023 12:11:39  ALSA: getDeviceProperties(default)
+19 Nov 2023 12:11:39  ALSA: getDeviceNumChannels: 1 32
+19 Nov 2023 12:11:39  ALSA: snd_pcm_open (default, forInput=1)
+19 Nov 2023 12:11:39  ALSA: ALSADevice::setParameters(default, 44100, 32, 512)
+19 Nov 2023 12:11:39  ALSA: format: bitDepth=32, isFloat=1, isLittleEndian=1, numChannels=32
+19 Nov 2023 12:11:39  ALSA: frames: 512, periods: 4, samplesPerPeriod: 512
+19 Nov 2023 12:11:39  ALSA: snd_pcm_open (default, forInput=0)
+19 Nov 2023 12:11:39  ALSA: ALSADevice::setParameters(default, 44100, 32, 512)
+19 Nov 2023 12:11:39  ALSA: format: bitDepth=32, isFloat=1, isLittleEndian=1, numChannels=32
+19 Nov 2023 12:11:39  ALSA: frames: 512, periods: 4, samplesPerPeriod: 512
+19 Nov 2023 12:11:39  Audio block size: 512  Rate: 44100
+19 Nov 2023 12:11:39  Rebuilding Wave Device List...
+19 Nov 2023 12:11:39  Wave In: channel 1 (enabled): 0 (L)
+19 Nov 2023 12:11:39  Wave In: channel 2 (enabled): 1 (L)
+19 Nov 2023 12:11:39  Wave In: channel 3: 2 (L)
+19 Nov 2023 12:11:39  Wave In: channel 4: 3 (L)
+19 Nov 2023 12:11:39  Wave In: channel 5: 4 (L)
+19 Nov 2023 12:11:39  Wave In: channel 6: 5 (L)
+19 Nov 2023 12:11:39  Wave In: channel 7: 6 (L)
+19 Nov 2023 12:11:39  Wave In: channel 8: 7 (L)
+19 Nov 2023 12:11:39  Wave In: channel 9: 8 (L)
+19 Nov 2023 12:11:39  Wave In: channel 10: 9 (L)
+19 Nov 2023 12:11:39  Wave In: channel 11: 10 (L)
+19 Nov 2023 12:11:39  Wave In: channel 12: 11 (L)
+19 Nov 2023 12:11:39  Wave In: channel 13: 12 (L)
+19 Nov 2023 12:11:39  Wave In: channel 14: 13 (L)
+19 Nov 2023 12:11:39  Wave In: channel 15: 14 (L)
+19 Nov 2023 12:11:39  Wave In: channel 16: 15 (L)
+19 Nov 2023 12:11:39  Wave In: channel 17: 16 (L)
+19 Nov 2023 12:11:39  Wave In: channel 18: 17 (L)
+19 Nov 2023 12:11:39  Wave In: channel 19: 18 (L)
+19 Nov 2023 12:11:39  Wave In: channel 20: 19 (L)
+19 Nov 2023 12:11:39  Wave In: channel 21: 20 (L)
+19 Nov 2023 12:11:39  Wave In: channel 22: 21 (L)
+19 Nov 2023 12:11:39  Wave In: channel 23: 22 (L)
+19 Nov 2023 12:11:39  Wave In: channel 24: 23 (L)
+19 Nov 2023 12:11:39  Wave In: channel 25: 24 (L)
+19 Nov 2023 12:11:39  Wave In: channel 26: 25 (L)
+19 Nov 2023 12:11:39  Wave In: channel 27: 26 (L)
+19 Nov 2023 12:11:39  Wave In: channel 28: 27 (L)
+19 Nov 2023 12:11:39  Wave In: channel 29: 28 (L)
+19 Nov 2023 12:11:39  Wave In: channel 30: 29 (L)
+19 Nov 2023 12:11:39  Wave In: channel 31: 30 (L)
+19 Nov 2023 12:11:39  Wave In: channel 32: 31 (L)
+19 Nov 2023 12:11:39  Wave Out: channel 1 + 2 (enabled): 0 (L), 1 (R)
+19 Nov 2023 12:11:39  Wave Out: channel 3 + 4: 2 (L), 3 (R)
+19 Nov 2023 12:11:39  Wave Out: channel 5 + 6: 4 (L), 5 (R)
+19 Nov 2023 12:11:39  Wave Out: channel 7 + 8: 6 (L), 7 (R)
+19 Nov 2023 12:11:39  Wave Out: channel 9 + 10: 8 (L), 9 (R)
+19 Nov 2023 12:11:39  Wave Out: channel 11 + 12: 10 (L), 11 (R)
+19 Nov 2023 12:11:39  Wave Out: channel 13 + 14: 12 (L), 13 (R)
+19 Nov 2023 12:11:39  Wave Out: channel 15 + 16: 14 (L), 15 (R)
+19 Nov 2023 12:11:39  Wave Out: channel 17 + 18: 16 (L), 17 (R)
+19 Nov 2023 12:11:39  Wave Out: channel 19 + 20: 18 (L), 19 (R)
+19 Nov 2023 12:11:39  Wave Out: channel 21 + 22: 20 (L), 21 (R)
+19 Nov 2023 12:11:39  Wave Out: channel 23 + 24: 22 (L), 23 (R)
+19 Nov 2023 12:11:39  Wave Out: channel 25 + 26: 24 (L), 25 (R)
+19 Nov 2023 12:11:39  Wave Out: channel 27 + 28: 26 (L), 27 (R)
+19 Nov 2023 12:11:39  Wave Out: channel 29 + 30: 28 (L), 29 (R)
+19 Nov 2023 12:11:39  Wave Out: channel 31 + 32: 30 (L), 31 (R)
+19 Nov 2023 12:11:39  Default Wave Out: channel 1 + 2
+19 Nov 2023 12:11:39  Default MIDI Out: Midi Through Port-0
+19 Nov 2023 12:11:39  Default Wave In: channel 1
+19 Nov 2023 12:11:39  Default MIDI In: Midi Through Port-0
+19 Nov 2023 12:11:39  Creating Default Controllers...
+19 Nov 2023 12:11:39  Loading Custom Controllers...
+19 Nov 2023 12:11:39  Initialising windows...
+19 Nov 2023 12:11:39  Language: en
+19 Nov 2023 12:11:39  Initialising plugins...
+19 Nov 2023 12:11:39  Last run failed to shut down cleanly
+19 Nov 2023 12:11:39  /usr/bin/Waveform12
+19 Nov 2023 12:11:39  Linux
+19 Nov 2023 12:11:39  Image database loaded 0 images in 0 seconds
+19 Nov 2023 12:11:39  CPU: 2949MHz  Cores: 12  7639MB
+19 Nov 2023 12:11:39  Events file size: 53 bytes
+19 Nov 2023 12:11:39  Initialising file formats...
+19 Nov 2023 12:11:39  Initialising projects...
+19 Nov 2023 12:11:39  Initialising devices...
+19 Nov 2023 12:11:39  Loop library loaded 3 loops in 26 ms
+19 Nov 2023 12:11:39  Initialising ReWire...
+19 Nov 2023 12:11:39  Reloading Windows...
+19 Nov 2023 12:11:39  Machine ID: LF8872CF06:L0A0B1C514 D
+19 Nov 2023 12:11:39  Feature set: auto
+19 Nov 2023 12:11:39  Preset database loaded 918 presets in 175 ms seconds
+19 Nov 2023 12:11:39  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:11:40  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:11:41  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:11:41  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:11:45  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:11:46  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:11:51  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:11:51  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:11:52  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:11:52  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:11:52  Loaded edit: test Edit 1
+19 Nov 2023 12:11:55  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:11:57  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:11:58  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:11:58  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:11:59  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:12:01  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:12:03  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:12:04  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:12:04  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:12:05  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:12:05  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:12:07  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:12:07  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:12:08  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:12:11  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:12:11  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:12:12  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:12:12  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:12:13  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:12:13  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:12:15  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:12:17  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:12:17  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:12:18  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:12:21  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:12:21  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:12:24  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:12:32  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:12:32  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:12:32  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:12:33  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:12:34  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:12:34  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:12:40  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:12:41  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:12:41  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:12:44  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:12:45  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:12:46  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:12:47  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:12:48  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:12:49  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:12:53  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:12:55  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:12:55  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:12:56  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:12:57  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:12:58  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:12:59  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:13:00  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:13:00  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:13:01  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:13:01  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:13:01  Closing window..
+19 Nov 2023 12:13:03  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:13:03  ALSA: Did not write all samples: numDone: -32, numSamples: 512
+19 Nov 2023 12:13:03  Wrote settings file: /home/lucas/.config/Tracktion/Waveform/Waveform.settings
+19 Nov 2023 12:13:03  Saving..
+19 Nov 2023 12:13:03  Closing devices..
+19 Nov 2023 12:13:05  Maintenance took: 6 ms
+19 Nov 2023 12:13:05  closing MIDI output: Midi Through Port-0
+19 Nov 2023 12:13:05  Closing MIDI in device: Midi Through Port-0
+19 Nov 2023 12:13:05  Cleaning up temp files..
+19 Nov 2023 12:13:05  Finished shutdown

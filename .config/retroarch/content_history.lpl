@@ -1,0 +1,147 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 2,
+  "items": [
+    {
+      "path": "/home/lucas/Roms/King's Field - The Ancient City (USA).iso",
+      "label": "King's Field - The Ancient City (USA)",
+      "core_path": "/home/lucas/.config/retroarch/cores/pcsx2_libretro.so",
+      "core_name": "Sony - PlayStation 2 (LRPS2)",
+      "crc32": "SLUS-20318|serial",
+      "db_name": "Sony - PlayStation 2.lpl"
+    },
+    {
+      "path": "/home/lucas/downloads/DuskandDawn.z64",
+      "label": "",
+      "core_path": "/home/lucas/.config/retroarch/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/lucas/Games/MMR/MMR-1.15.2.1-2024-01-23T23-05-24.6019584Z.z64",
+      "label": "",
+      "core_path": "/home/lucas/.config/retroarch/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/lucas/Games/MMR/MMR-1.15.2.1-2024-01-23T18-43-58.5984889Z.z64",
+      "label": "",
+      "core_path": "/home/lucas/.config/retroarch/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/lucas/downloads/Legend of Zelda, The - Majora's Mask (USA).zip#Legend of Zelda, The - Majora's Mask (USA).z64",
+      "label": "Legend of Zelda, The - Majora's Mask (USA)",
+      "core_path": "/home/lucas/.config/retroarch/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "B428D8A7|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/lucas/Games/OoT_4142E_ZV6KCAZGTS.z64",
+      "label": "",
+      "core_path": "/home/lucas/.config/retroarch/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/lucas/Games/OoT_F9B3B_TXJ0B5J7CL.z64",
+      "label": "",
+      "core_path": "/home/lucas/.config/retroarch/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/lucas/downloads/Legend of Zelda, The - Twilight Princess (USA).ciso",
+      "label": "",
+      "core_path": "/home/lucas/.config/retroarch/cores/dolphin_libretro.so",
+      "core_name": "Nintendo - GameCube / Wii (Dolphin)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/lucas/Games/OoT_F4887_Y5M8JQ17UA.z64",
+      "label": "",
+      "core_path": "/home/lucas/.config/retroarch/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/lucas/Games/OoT_F2A13_4KHH2LRQ7R.z64",
+      "label": "",
+      "core_path": "/home/lucas/.config/retroarch/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/lucas/Games/OoT_F2A13_U3B7VP2M4X.z64",
+      "label": "",
+      "core_path": "/home/lucas/.config/retroarch/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/lucas/downloads/Legend of Zelda, The - Ocarina of Time (USA) (Rev 2).zip#Legend of Zelda, The - Ocarina of Time (USA) (Rev 2).z64",
+      "label": "Legend of Zelda, The - Ocarina of Time (USA) (Rev 2)",
+      "core_path": "/home/lucas/.config/retroarch/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "32120C23|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/lucas/Games/Legend of Zelda, The - Oracle of Ages (USA, Australia).gbc",
+      "label": "Legend of Zelda, The - Oracle of Ages (USA, Australia)",
+      "core_path": "/home/lucas/.config/retroarch/cores/gearboy_libretro.so",
+      "core_name": "Nintendo - Game Boy / Color (Gearboy)",
+      "crc32": "3800A387|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/lucas/Downloads/Spigle/Fartnite!!!.nds",
+      "label": "",
+      "core_path": "/home/lucas/.config/retroarch/cores/melonds_libretro.so",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/lucas/Downloads/Sussy amongus fortnite.nds",
+      "label": "",
+      "core_path": "/home/lucas/.config/retroarch/cores/melonds_libretro.so",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "",
+      "db_name": ""
+    },
+    {
+      "path": "/home/lucas/Downloads/Pokemon - Black Version 2 (USA, Europe) (NDSi Enhanced).nds",
+      "label": "Pokemon - Black Version 2 (USA, Europe) (NDSi Enhanced)",
+      "core_path": "/home/lucas/.config/retroarch/cores/melonds_libretro.so",
+      "core_name": "Nintendo - DS (melonDS)",
+      "crc32": "D4427FD1|crc",
+      "db_name": "Nintendo - Nintendo DS.lpl"
+    },
+    {
+      "path": "/home/lucas/.config/retroarch/downloads/Doom/doom1.wad",
+      "label": "",
+      "core_path": "/home/lucas/.config/retroarch/cores/prboom_libretro.so",
+      "core_name": "Doom (PrBoom)",
+      "crc32": "",
+      "db_name": ""
+    }
+  ]
+}

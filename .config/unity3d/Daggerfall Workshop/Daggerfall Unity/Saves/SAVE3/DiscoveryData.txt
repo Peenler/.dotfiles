@@ -1,0 +1,187 @@
+[
+    {
+        "Key": 158109,
+        "Value": {
+            "mapID": 187853213,
+            "mapPixelID": 158109,
+            "regionName": "Daggerfall",
+            "locationName": "Privateer's Hold",
+            "discoveredBuildings": null
+        }
+    },
+    {
+        "Key": 213207,
+        "Value": {
+            "mapID": 1291010263,
+            "mapPixelID": 213207,
+            "regionName": "Daggerfall",
+            "locationName": "Daggerfall",
+            "discoveredBuildings": [
+                {
+                    "Key": 67088,
+                    "Value": {
+                        "buildingKey": 67088,
+                        "displayName": "Bedoryan's Quality Retail Store",
+                        "oldDisplayName": null,
+                        "isOverrideName": false,
+                        "factionID": 510,
+                        "quality": 20,
+                        "buildingType": "GeneralStore",
+                        "lastLockpickAttempt": 0,
+                        "customUserDisplayName": null
+                    }
+                },
+                {
+                    "Key": 132622,
+                    "Value": {
+                        "buildingKey": 132622,
+                        "displayName": "The King's Fairy",
+                        "oldDisplayName": null,
+                        "isOverrideName": false,
+                        "factionID": 510,
+                        "quality": 11,
+                        "buildingType": "Tavern",
+                        "lastLockpickAttempt": 0,
+                        "customUserDisplayName": null
+                    }
+                },
+                {
+                    "Key": 262929,
+                    "Value": {
+                        "buildingKey": 262929,
+                        "displayName": "The Odd Bijoutry",
+                        "oldDisplayName": null,
+                        "isOverrideName": false,
+                        "factionID": 510,
+                        "quality": 11,
+                        "buildingType": "GemStore",
+                        "lastLockpickAttempt": 0,
+                        "customUserDisplayName": null
+                    }
+                },
+                {
+                    "Key": 132621,
+                    "Value": {
+                        "buildingKey": 132621,
+                        "displayName": "The Black Wolf",
+                        "oldDisplayName": null,
+                        "isOverrideName": false,
+                        "factionID": 510,
+                        "quality": 13,
+                        "buildingType": "Tavern",
+                        "lastLockpickAttempt": 0,
+                        "customUserDisplayName": null
+                    }
+                },
+                {
+                    "Key": 132370,
+                    "Value": {
+                        "buildingKey": 132370,
+                        "displayName": "Andywyr's Quality Equipment Store",
+                        "oldDisplayName": null,
+                        "isOverrideName": false,
+                        "factionID": 510,
+                        "quality": 6,
+                        "buildingType": "GeneralStore",
+                        "lastLockpickAttempt": 0,
+                        "customUserDisplayName": null
+                    }
+                },
+                {
+                    "Key": 197899,
+                    "Value": {
+                        "buildingKey": 197899,
+                        "displayName": "The Fighters Guild",
+                        "oldDisplayName": null,
+                        "isOverrideName": false,
+                        "factionID": 41,
+                        "quality": 12,
+                        "buildingType": "GuildHall",
+                        "lastLockpickAttempt": 0,
+                        "customUserDisplayName": null
+                    }
+                },
+                {
+                    "Key": 328963,
+                    "Value": {
+                        "buildingKey": 328963,
+                        "displayName": "Bargain Bookstore",
+                        "oldDisplayName": null,
+                        "isOverrideName": false,
+                        "factionID": 510,
+                        "quality": 15,
+                        "buildingType": "Bookseller",
+                        "lastLockpickAttempt": 0,
+                        "customUserDisplayName": null
+                    }
+                },
+                {
+                    "Key": 263429,
+                    "Value": {
+                        "buildingKey": 263429,
+                        "displayName": "The Flying Dragon",
+                        "oldDisplayName": null,
+                        "isOverrideName": false,
+                        "factionID": 510,
+                        "quality": 9,
+                        "buildingType": "Tavern",
+                        "lastLockpickAttempt": 0,
+                        "customUserDisplayName": null
+                    }
+                },
+                {
+                    "Key": 263424,
+                    "Value": {
+                        "buildingKey": 263424,
+                        "displayName": "Vintage Smith",
+                        "oldDisplayName": null,
+                        "isOverrideName": false,
+                        "factionID": 510,
+                        "quality": 20,
+                        "buildingType": "Armorer",
+                        "lastLockpickAttempt": 0,
+                        "customUserDisplayName": null
+                    }
+                },
+                {
+                    "Key": 262659,
+                    "Value": {
+                        "buildingKey": 262659,
+                        "displayName": "Daggerfall Lyceum",
+                        "oldDisplayName": null,
+                        "isOverrideName": false,
+                        "factionID": 510,
+                        "quality": 19,
+                        "buildingType": "Library",
+                        "lastLockpickAttempt": 0,
+                        "customUserDisplayName": null
+                    }
+                },
+                {
+                    "Key": 263173,
+                    "Value": {
+                        "buildingKey": 263173,
+                        "displayName": "The Odd Blades",
+                        "oldDisplayName": null,
+                        "isOverrideName": false,
+                        "factionID": 510,
+                        "quality": 20,
+                        "buildingType": "WeaponSmith",
+                        "lastLockpickAttempt": 0,
+                        "customUserDisplayName": null
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "Key": 200280,
+        "Value": {
+            "mapID": 1057164888,
+            "mapPixelID": 200280,
+            "regionName": "Daggerfall",
+            "locationName": "Ruins of The Moorhart Farmstead",
+            "discoveredBuildings": null
+        }
+    }
+]

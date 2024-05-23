@@ -1,0 +1,27 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/home/lucas/Games/Legend of Zelda, The - Oracle of Ages (USA, Australia).gbc",
+      "label": "Legend of Zelda, The - Oracle of Ages (USA, Australia)",
+      "core_path": "/home/lucas/.config/retroarch/cores/gearboy_libretro.so",
+      "core_name": "Nintendo - Game Boy / Color (Gearboy)",
+      "crc32": "3800A387|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    },
+    {
+      "path": "/home/lucas/Games/Legend of Zelda, The - Oracle of Seasons (USA, Australia).gbc",
+      "label": "Legend of Zelda, The - Oracle of Seasons (USA, Australia)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "D7E9F5D7|crc",
+      "db_name": "Nintendo - Game Boy Color.lpl"
+    }
+  ]
+}

@@ -1,0 +1,2539 @@
+### Start DFTFU Settings Manager Properties ### 
+
+PersistentDataPath | /home/lucas/.config/unity3d/Daggerfall Workshop/Daggerfall Unity 
+
+
+DistributionSuffix |  
+
+
+MyDaggerfallPath | /home/lucas/Games/Daggerfall files/DF/DAGGER 
+
+
+MyDaggerfallUnitySavePath |  
+
+
+MyDaggerfallUnityScreenshotsPath |  
+
+
+ResolutionWidth | 1920 
+
+
+ResolutionHeight | 1080 
+
+
+RetroRenderingMode | 0 
+
+
+PostProcessingInRetroMode | 0 
+
+
+UseMipMapsInRetroMode | False 
+
+
+RetroModeAspectCorrection | 0 
+
+
+PalettizationLUTShift | 1 
+
+
+VSync | True 
+
+
+TargetFrameRate | 0 
+
+
+Fullscreen | True 
+
+
+ExclusiveFullscreen | False 
+
+
+FieldOfView | 65 
+
+
+ShadowResolutionMode | 0 
+
+
+MainFilterMode | 0 
+
+
+QualityLevel | 4 
+
+
+DungeonLightShadows | False 
+
+
+InteriorLightShadows | True 
+
+
+ExteriorLightShadows | True 
+
+
+AmbientLitInteriors | False 
+
+
+MobileNPCShadows | False 
+
+
+GeneralBillboardShadows | False 
+
+
+NatureBillboardShadows | False 
+
+
+DungeonShadowDistance | 20 
+
+
+InteriorShadowDistance | 30 
+
+
+ExteriorShadowDistance | 90 
+
+
+EnableTextureArrays | True 
+
+
+RandomDungeonTextures | 1 
+
+
+CursorWidth | 32 
+
+
+CursorHeight | 32 
+
+
+AntialiasingMethod | 0 
+
+
+AntialiasingFXAAFastMode | False 
+
+
+AntialiasingSMAAQuality | 1 
+
+
+AntialiasingTAASharpness | 0.3 
+
+
+AmbientOcclusionEnable | False 
+
+
+AmbientOcclusionMethod | 0 
+
+
+AmbientOcclusionIntensity | 1.2 
+
+
+AmbientOcclusionThickness | 1 
+
+
+AmbientOcclusionRadius | 0.4 
+
+
+AmbientOcclusionQuality | 2 
+
+
+BloomEnable | False 
+
+
+BloomIntensity | 5 
+
+
+BloomThreshold | 0.7 
+
+
+BloomDiffusion | 6 
+
+
+BloomFastMode | False 
+
+
+MotionBlurEnable | False 
+
+
+MotionBlurShutterAngle | 270 
+
+
+MotionBlurSampleCount | 8 
+
+
+VignetteEnable | False 
+
+
+VignetteIntensity | 0.6 
+
+
+VignetteSmoothness | 0.3 
+
+
+VignetteRoundness | 0.5 
+
+
+VignetteRounded | False 
+
+
+DepthOfFieldEnable | False 
+
+
+DepthOfFieldFocusDistance | 3.8 
+
+
+DepthOfFieldAperture | 5 
+
+
+DepthOfFieldFocalLength | 50 
+
+
+DepthOfFieldMaxBlurSize | 1 
+
+
+DitherEnable | False 
+
+
+ColorBoostEnable | False 
+
+
+ColorBoostRadius | 25 
+
+
+ColorBoostIntensity | 1 
+
+
+ColorBoostDungeonScale | 1.5 
+
+
+ColorBoostExteriorScale | 0.2 
+
+
+ColorBoostInteriorScale | 0.5 
+
+
+ColorBoostDungeonFalloff | 0 
+
+
+SoundFont |  
+
+
+AlternateMusic | False 
+
+
+PlayerNudity | False 
+
+
+ShowOptionsAtStart | True 
+
+
+GUIFilterMode | 0 
+
+
+VideoFilterMode | 1 
+
+
+Crosshair | True 
+
+
+InteractionModeIcon | classic 
+
+
+SwapHealthAndFatigueColors | False 
+
+
+DimAlphaStrength | 0.5 
+
+
+EnableToolTips | True 
+
+
+ToolTipDelayInSeconds | 0 
+
+
+ToolTipBackgroundColor | RGBA(64, 64, 64, 210) 
+
+
+ToolTipTextColor | RGBA(230, 230, 200, 255) 
+
+
+ShopQualityPresentation | 0 
+
+
+ShopQualityHUDDelay | 4 
+
+
+ShowQuestJournalClocksAsCountdown | True 
+
+
+EnableInventoryInfoPanel | True 
+
+
+EnableEnhancedItemLists | True 
+
+
+EnableModernConversationStyleInTalkWindow | False 
+
+
+IconsPositioningScheme | classic 
+
+
+HelmAndShieldMaterialDisplay | 3 
+
+
+AccelerateUICopyTexture | False 
+
+
+EnableVitalsIndicators | True 
+
+
+SDFFontRendering | True 
+
+
+EnableGeographicBackgrounds | True 
+
+
+EnableArrowCounter | True 
+
+
+DungeonExitWagonPrompt | True 
+
+
+TravelMapLocationsOutline | False 
+
+
+IllegalRestWarning | True 
+
+
+LargeHUD | False 
+
+
+LargeHUDDocked | True 
+
+
+LargeHUDUndockedScale | 0.75 
+
+
+LargeHUDUndockedAlignment | 0 
+
+
+LargeHUDUndockedOffsetWeapon | False 
+
+
+LargeHUDOffsetHorse | True 
+
+
+CanDropQuestItems | False 
+
+
+RunInBackground | True 
+
+
+EnableQuestDebugger | False 
+
+
+QuestRumorWeight | 50 
+
+
+DisableEnemyDeathAlert | False 
+
+
+EnableSpellLighting | True 
+
+
+EnableSpellShadows | True 
+
+
+InvertMouseVertical | False 
+
+
+MouseLookSmoothing | True 
+
+
+MouseLookSensitivity | 1 
+
+
+JoystickLookSensitivity | 1 
+
+
+JoystickCursorSensitivity | 1 
+
+
+JoystickMovementThreshold | 0.9 
+
+
+JoystickDeadzone | 0.1 
+
+
+EnableController | True 
+
+
+HeadBobbing | True 
+
+
+Handedness | 0 
+
+
+WeaponAttackThreshold | 0.01 
+
+
+MovementAcceleration | False 
+
+
+ToggleSneak | False 
+
+
+WeaponSwingMode | 2 
+
+
+CameraRecoilStrength | 3 
+
+
+MusicVolume | 0.5 
+
+
+SoundVolume | 0.5 
+
+
+InstantRepairs | False 
+
+
+AllowMagicRepairs | True 
+
+
+BowDrawback | False 
+
+
+AutomapNumberOfDungeons | 5 
+
+
+AutomapDisableMicroMap | False 
+
+
+AutomapRememberSliceLevel | False 
+
+
+AutomapAlwaysMaxOutSliceLevel | False 
+
+
+ExteriorMapDefaultZoomLevel | 8 
+
+
+ExteriorMapResetZoomLevelOnNewLocation | True 
+
+
+AutomapTempleColor | RGBA(69, 125, 195, 255) 
+
+
+AutomapShopColor | RGBA(190, 85, 24, 255) 
+
+
+AutomapTavernColor | RGBA(85, 117, 48, 255) 
+
+
+AutomapHouseColor | RGBA(69, 60, 40, 255) 
+
+
+DungeonMicMapQoL | False 
+
+
+DunMicMapInnerColor | RGBA(212, 135, 208, 255) 
+
+
+DunMicMapBorderColor | RGBA(250, 180, 3, 255) 
+
+
+StartCellX | 109 
+
+
+StartCellY | 158 
+
+
+StartInDungeon | True 
+
+
+TerrainDistance | 3 
+
+
+TerrainHeightmapPixelError | 5 
+
+
+SmallerDungeons | False 
+
+
+AssetCacheThreshold | 25 
+
+
+LypyL_GameConsole | True 
+
+
+LypyL_ModSystem | True 
+
+
+AssetInjection | True 
+
+
+CompressModdedTextures | True 
+
+
+NearDeathWarning | True 
+
+
+AlternateRandomEnemySelection | True 
+
+
+AdvancedClimbing | True 
+
+
+DungeonAmbientLightScale | 1 
+
+
+NightAmbientLightScale | 1 
+
+
+PlayerTorchLightScale | 1 
+
+
+PlayerTorchFromItems | False 
+
+
+CombatVoices | True 
+
+
+EnemyInfighting | True 
+
+
+EnhancedCombatAI | True 
+
+
+GuildQuestListBox | False 
+
+
+BowLeftHandWithSwitching | False 
+
+
+LoiterLimitInHours | 3 
+
+
+IsReady: | True 
+
+
+Arena2Path: | /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2 
+
+
+IsPathValidated: | True 
+
+
+### End DFTFU Settings Manager Properties ### 
+
+
+
+
+### Start Enviornment Info ###
+
+
+CommandLine | "/home/lucas/Games/Daggerfall Unity/v0.14.5-beta/DaggerfallUnity.x86_64" 
+
+
+CurrentDirectory | /home/lucas/Games/Daggerfall Unity/v0.14.5-beta 
+
+
+CurrentManagedThreadId | 1 
+
+
+ExitCode | 0 
+
+
+HasShutdownStarted | False 
+
+
+NewLine | 
+ 
+
+
+OSVersion | Unix 6.7.0.3 
+
+
+SystemDirectory |  
+
+
+TickCount | 45053 
+
+
+UserInteractive | False 
+
+
+Version | 4.0.30319.42000 
+
+
+WorkingSet | 0 
+
+
+Is64BitOperatingSystem | True 
+
+
+SystemPageSize | 4096 
+
+
+Is64BitProcess | True 
+
+
+ProcessorCount | 12 
+
+
+### Start Culture Info ###
+
+
+
+InvariantCulture | 
+
+
+CurrentCulture | en-US
+
+
+CurrentUICulture | en-US
+
+
+CultureTypes | AllCultures
+
+
+IetfLanguageTag | en-US
+
+
+KeyboardLayoutId | 1033
+
+
+LCID | 1033
+
+
+Name | en-US
+
+
+NativeName | English (United States)
+
+
+Calendar | System.Globalization.GregorianCalendar
+
+
+OptionalCalendars | System.Globalization.Calendar[]
+
+
+Parent | en
+
+
+TextInfo | TextInfo - en-US
+
+
+ThreeLetterISOLanguageName | eng
+
+
+ThreeLetterWindowsLanguageName | ENU
+
+
+TwoLetterISOLanguageName | en
+
+
+UseUserOverride | True
+
+
+CompareInfo | CompareInfo - en-US
+
+
+IsNeutralCulture | False
+
+
+NumberFormat | System.Globalization.NumberFormatInfo
+
+
+DateTimeFormat | System.Globalization.DateTimeFormatInfo
+
+
+DisplayName | English (United States)
+
+
+EnglishName | English (United States)
+
+
+InstalledUICulture | en-US
+
+
+IsReadOnly | True
+
+
+DefaultThreadCurrentCulture | 
+
+
+DefaultThreadCurrentUICulture | 
+
+
+### End Culture Properties ### 
+
+
+
+
+### Start System Info ###
+
+
+batteryLevel | -1 
+
+
+batteryStatus | Unknown 
+
+
+operatingSystem | Linux 6.7 Arch Linux  64bit 
+
+
+operatingSystemFamily | Linux 
+
+
+processorType | 12th Gen Intel(R) Core(TM) i3-1220P 
+
+
+processorFrequency | 2426 
+
+
+processorCount | 12 
+
+
+systemMemorySize | 7639 
+
+
+deviceModel | PC 
+
+
+supportsAccelerometer | False 
+
+
+supportsGyroscope | False 
+
+
+supportsLocationService | False 
+
+
+supportsVibration | False 
+
+
+supportsAudio | True 
+
+
+deviceType | Desktop 
+
+
+graphicsMemorySize | 512 
+
+
+graphicsDeviceName | Mesa Intel(R) Graphics (ADL GT2) 
+
+
+graphicsDeviceVendor | Intel 
+
+
+graphicsDeviceID | 0 
+
+
+graphicsDeviceVendorID | 0 
+
+
+graphicsDeviceType | OpenGLCore 
+
+
+graphicsUVStartsAtTop | False 
+
+
+graphicsDeviceVersion | OpenGL 4.6 (Core Profile) Mesa 23.3.3-arch1.1 
+
+
+graphicsShaderLevel | 50 
+
+
+graphicsMultiThreaded | True 
+
+
+renderingThreadingMode | MultiThreaded 
+
+
+hasHiddenSurfaceRemovalOnGPU | False 
+
+
+hasDynamicUniformArrayIndexingInFragmentShaders | True 
+
+
+supportsShadows | True 
+
+
+supportsRawShadowDepthSampling | True 
+
+
+supportsRenderTextures | True 
+
+
+supportsMotionVectors | True 
+
+
+supportsRenderToCubemap | True 
+
+
+supportsImageEffects | True 
+
+
+supports3DTextures | True 
+
+
+supports2DArrayTextures | True 
+
+
+supports3DRenderTextures | True 
+
+
+supportsCubemapArrayTextures | True 
+
+
+copyTextureSupport | Basic, Copy3D, DifferentTypes, TextureToRT, RTToTexture 
+
+
+supportsComputeShaders | True 
+
+
+supportsGeometryShaders | True 
+
+
+supportsTessellationShaders | True 
+
+
+supportsInstancing | True 
+
+
+supportsHardwareQuadTopology | False 
+
+
+supports32bitsIndexBuffer | True 
+
+
+supportsSparseTextures | False 
+
+
+supportedRenderTargetCount | 8 
+
+
+supportsSeparatedRenderTargetsBlend | True 
+
+
+supportedRandomWriteTargetCount | 24 
+
+
+supportsMultisampledTextures | 1 
+
+
+supportsMultisampleAutoResolve | False 
+
+
+supportsTextureWrapMirrorOnce | 1 
+
+
+usesReversedZBuffer | False 
+
+
+supportsStencil | 1 
+
+
+npotSupport | Full 
+
+
+maxTextureSize | 16384 
+
+
+maxCubemapSize | 16384 
+
+
+maxComputeBufferInputsVertex | 16 
+
+
+maxComputeBufferInputsFragment | 16 
+
+
+maxComputeBufferInputsGeometry | 16 
+
+
+maxComputeBufferInputsDomain | 16 
+
+
+maxComputeBufferInputsHull | 16 
+
+
+maxComputeBufferInputsCompute | 16 
+
+
+maxComputeWorkGroupSize | 1024 
+
+
+maxComputeWorkGroupSizeX | 1024 
+
+
+maxComputeWorkGroupSizeY | 1024 
+
+
+maxComputeWorkGroupSizeZ | 1024 
+
+
+supportsAsyncCompute | False 
+
+
+supportsGraphicsFence | True 
+
+
+supportsAsyncGPUReadback | False 
+
+
+supportsRayTracing | False 
+
+
+supportsSetConstantBuffer | True 
+
+
+minConstantBufferOffsetAlignment | True 
+
+
+hasMipMaxLevel | True 
+
+
+supportsMipStreaming | True 
+
+
+graphicsPixelFillrate | -1 
+
+
+usesLoadStoreActions | False 
+
+
+supportsStoreAndResolveAction | True 
+
+
+supportsVertexPrograms | True 
+
+
+supportsGPUFence | False 
+
+
+### START FILE CHECK ###
+
+
+
+
+		 *** DIRECTORY PATH: /home/lucas/Games/Daggerfall files/DF/DAGGER ***
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/CASTER.CFG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/DAGGER.EXE 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/DAGGER.ICO 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/DAGGER.SWP 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/DRUM.BNK 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/FALL.EXE 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/FIXMAPS.EXE 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/FIXSAVE.EXE 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/FIXSAVE.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/HMIDET.386 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/HMIDRV.386 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/HMIMDRV.386 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/HMISET.CFG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/INSTALL.EXE 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/INSTALL.PIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/INSTALL.SCR 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/MELODIC.BNK 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/PATCHED.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/SETUP.EXE 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/SETUP.INI 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/SETUP.PIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/TEST.HMI 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/TEST.HMP 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/TEST.RAW 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/TEST.WAV 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/Z.CFG 
+
+
+		 *** DIRECTORY PATH: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2 ***
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/$CUREVAM.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/$CUREVAM.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/$CUREWER.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/$CUREWER.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/00B00Y00.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/00B00Y00.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/10C00Y00.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/10C00Y00.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/20C00Y00.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/20C00Y00.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/30C00Y00.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/30C00Y00.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/40C00Y00.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/40C00Y00.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/50C00Y00.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/50C00Y00.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/60C00Y00.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/60C00Y00.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/70C00Y00.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/70C00Y00.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/80C00Y00.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/80C0XY00.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/80C0XY00.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/90C00Y00.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/90C00Y00.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/A0C00Y00.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/A0C00Y00.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/A0C00Y04.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/A0C00Y06.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/A0C00Y06.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/A0C00Y07.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/A0C00Y07.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/A0C00Y08.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/A0C00Y08.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/A0C00Y10.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/A0C00Y10.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/A0C00Y11.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/A0C00Y11.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/A0C00Y12.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/A0C00Y12.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/A0C00Y14.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/A0C00Y14.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/A0C00Y15.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/A0C00Y15.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/A0C00Y16.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/A0C00Y16.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/A0C00Y17.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/A0C00Y17.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/A0C01Y01.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/A0C01Y01.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/A0C01Y03.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/A0C01Y03.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/A0C01Y06.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/A0C01Y06.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/A0C01Y09.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/A0C01Y09.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/A0C01Y13.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/A0C01Y13.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/A0C0XY04.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/A0C0XY04.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/A0C10Y02.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/A0C10Y02.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/A0C10Y05.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/A0C10Y05.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/A0C41Y18.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/A0C41Y18.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/AMAP00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/AMAP01I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/ANIM0000.VID 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/ANIM0001.VID 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/ANIM0002.VID 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/ANIM0003.VID 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/ANIM0004.VID 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/ANIM0005.VID 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/ANIM0006.VID 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/ANIM0007.VID 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/ANIM0008.VID 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/ANIM0009.VID 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/ANIM0010.VID 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/ANIM0011.VID 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/ANIM0012.VID 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/ANIM0013.VID 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/ANIM0014.VID 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/ANIM0015.VID 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/APAINT.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/ARCH3D.BSA 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/ARROW.RAW 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/ART_PAL.COL 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/AT50050.AMF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/AT65535.AMF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/AZURA.FLC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/B0B00Y00.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/B0B00Y00.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/B0B00Y01.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/B0B00Y01.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/B0B10Y04.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/B0B10Y04.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/B0B20Y07.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/B0B20Y07.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/B0B40Y08.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/B0B40Y08.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/B0B40Y09.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/B0B40Y09.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/B0B50Y11.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/B0B50Y11.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/B0B60Y12.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/B0B60Y12.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/B0B70Y14.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/B0B70Y14.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/B0B70Y16.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/B0B70Y16.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/B0B71Y03.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/B0B71Y03.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/B0B80Y17.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/B0B80Y17.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/B0C00Y05.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/B0C00Y05.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/B0C00Y06.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/B0C00Y06.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/B0C00Y10.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/B0C00Y10.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/B0C00Y13.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/B0C00Y13.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BANK00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BANK01I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BANK01I1.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BANK01I2.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BETAPLYR.DAT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BETHESDA.INF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BIO.DAT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BIOG00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BIOG00T0.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BIOG01T0.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BIOG02T0.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BIOG03T0.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BIOG04T0.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BIOG05T0.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BIOG06T0.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BIOG07T0.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BIOG08T0.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BIOG09T0.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BIOG10T0.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BIOG11T0.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BIOG12T0.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BIOG13T0.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BIOG14T0.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BIOG15T0.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BIOG16T0.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BIOG17T0.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BLOCKS.BSA 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOAR00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BODY00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BODY00I1.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BODY01I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BODY01I1.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BODY02I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BODY02I1.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BODY03I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BODY03I1.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BODY04I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BODY04I1.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BODY05I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BODY05I1.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BODY06I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BODY06I1.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BODY07I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BODY07I1.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BODY10I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BODY10I1.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BODY11I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BODY11I1.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BODY12I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BODY12I1.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BODY13I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BODY13I1.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BODY14I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BODY14I1.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BODY15I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BODY15I1.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BODY16I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BODY16I1.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BODY17I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BODY17I1.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOETHIAH.FLC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOK00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BPAINT.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BUTN00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BUTN01I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BUTN02I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BUTN03I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BUTTONS.RCI 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/C0B00Y00.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/C0B00Y00.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/C0B00Y01.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/C0B00Y01.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/C0B00Y02.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/C0B00Y02.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/C0B00Y03.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/C0B00Y03.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/C0B00Y04.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/C0B00Y04.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/C0B10Y05.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/C0B10Y05.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/C0B10Y06.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/C0B10Y06.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/C0B10Y07.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/C0B10Y07.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/C0B20Y08.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/C0B20Y08.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/C0B3XY09.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/C0B3XY09.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/C0C00Y10.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/C0C00Y10.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/C0C00Y11.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/C0C00Y11.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/C0C00Y12.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/C0C00Y12.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/C0C00Y13.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/C0C00Y13.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CHAR00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CHAR01I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CHAR02I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CHAR02I1.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CHAR03I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CHAR03I1.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CHAR04I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CHAR05I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CHAR05I1.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CHGN00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CHLD00I0.RCI 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CLASS00.CFG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CLASS01.CFG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CLASS02.CFG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CLASS03.CFG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CLASS04.CFG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CLASS05.CFG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CLASS06.CFG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CLASS07.CFG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CLASS08.CFG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CLASS09.CFG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CLASS10.CFG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CLASS11.CFG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CLASS12.CFG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CLASS13.CFG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CLASS14.CFG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CLASS15.CFG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CLASS16.CFG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CLASS17.CFG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CLASS18.CFG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CLASSES.DAT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CLAVICUS.FLC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CLIMATE.PAK 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CMPA00I0.BSS 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CMPA01I0.BSS 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CMPA02I0.BSS 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CMPA03I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CNFG00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CNFG00I1.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CNFG01I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CNFG02I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CNFG03I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CNFG04I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CNFG05I0.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CNFG06I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/COMPASS.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/COMPBOX.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CORT01I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/COUNT.DAT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CPAINT.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CUST00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CUST01I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CUST02I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CUST03I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CUST04I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CUST05I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CUST06I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CUST07I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CUST08I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/CUST09I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/D0B00Y00.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/D0B00Y00.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/DAED00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/DAG2.VID 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/DAGGER.SND 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/DANK02I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/DANKBMAP.COL 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/DARKEN.LGT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/DARKENA.LGT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/DARKMASK.RAW 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/DESERT.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/DIE_00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/DPAINT.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/E0B00Y00.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/E0B00Y00.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/EPAINT.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/F0B00Y00.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/F0B00Y00.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FACE00I0.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FACE01I0.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FACE02I0.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FACE03I0.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FACE04I0.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FACE05I0.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FACE06I0.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FACE07I0.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FACE10I0.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FACE11I0.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FACE12I0.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FACE13I0.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FACE14I0.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FACE15I0.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FACE16I0.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FACE17I0.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FACES.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FACTION.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FIRE00C6.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FLATS.CFG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAP0I00.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAP0I01.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAP0I05.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAP0I09.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAP0I11.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAP0I16.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAP0I17.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAP0I18.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAP0I19.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAP0I20.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAP0I21.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAP0I22.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAP0I23.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAP0I26.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAP0I32.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAP0I33.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAP0I34.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAP0I35.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAP0I36.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAP0I37.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAP0I38.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAP0I39.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAP0I40.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAP0I41.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAP0I42.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAP0I43.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAP0I44.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAP0I45.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAP0I46.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAP0I47.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAP0I48.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAP0I49.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAP0I50.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAP0I51.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAP0I52.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAP0I53.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAP0I54.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAP0I55.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAP0I56.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAP0I57.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAP0I58.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAP0I59.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAP0I60.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAP0I61.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAPAI00.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAPAI01.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAPAI16.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAPBI00.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAPBI01.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAPBI16.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAPCI01.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAPCI16.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAPDI01.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAPDI16.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FMAP_PAL.COL 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FONT0000.FNT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FONT0001.FNT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FONT0002.FNT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FONT0003.FNT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FONT0004.FNT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FPAINT.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FRAM00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/FRST00C6.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/G0B00Y00.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/G0B00Y00.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/GILD00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/GILD01I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/GNRC00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/GNRC01I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/GPAINT.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/GRAD00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/GRAD01I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/H0B00Y00.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/H0B00Y00.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/HAZE.000 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/HAZE.001 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/HERB00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/HERMAEUS.FLC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/HIRCINE.FLC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/HPAINT.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/I0B00Y00.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/I0B00Y00.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/ICON00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/INFO00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/INFO01I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/INVE00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/INVE01I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/INVE02I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/INVE03I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/INVE04I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/INVE05I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/INVE06I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/INVE07I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/INVE08I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/INVE09I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/INVE0FI0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/INVE10I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/INVE11I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/INVE12I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/INVE13I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/INVE14I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/INVE15I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/INVE16I0.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/IPAINT.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/ITEM00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/ITEM01I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/J0B00Y00.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/J0B00Y00.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/JPAINT.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/K0C00Y00.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/K0C00Y00.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/K0C00Y02.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/K0C00Y02.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/K0C00Y03.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/K0C00Y03.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/K0C00Y04.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/K0C00Y04.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/K0C00Y05.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/K0C00Y05.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/K0C00Y06.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/K0C00Y06.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/K0C00Y07.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/K0C00Y07.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/K0C00Y08.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/K0C00Y08.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/K0C00Y09.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/K0C00Y09.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/K0C01Y00.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/K0C01Y00.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/K0C01Y10.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/K0C01Y10.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/K0C0XY01.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/K0C0XY01.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/K0C30Y03.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/K0C30Y03.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/KIDS00I0.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/KPAINT.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/L0A01L00.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/L0A01L00.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/L0B00Y00.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/L0B00Y00.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/L0B00Y01.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/L0B00Y01.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/L0B00Y02.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/L0B00Y02.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/L0B00Y03.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/L0B00Y03.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/L0B10Y01.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/L0B10Y01.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/L0B10Y03.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/L0B10Y03.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/L0B20Y02.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/L0B20Y02.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/L0B30Y03.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/L0B30Y03.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/L0B30Y09.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/L0B30Y09.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/L0B40Y04.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/L0B40Y04.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/L0B50Y11.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/L0B50Y11.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/L0B60Y10.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/L0B60Y10.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/LAMP00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/LGBK00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/LIGHT.DAT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/LOAD00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/LPAINT.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/M0B00Y00.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/M0B00Y00.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/M0B00Y06.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/M0B00Y06.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/M0B00Y07.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/M0B00Y07.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/M0B00Y15.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/M0B00Y15.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/M0B1XY01.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/M0B1XY01.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/M0B20Y02.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/M0B20Y02.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/M0B30Y03.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/M0B30Y03.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/M0B30Y04.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/M0B30Y04.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/M0B30Y08.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/M0B30Y08.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/M0B40Y04.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/M0B40Y05.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/M0B40Y05.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/M0B50Y09.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/M0B50Y09.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/M0B60Y10.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/M0B60Y10.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/M0C00Y11.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/M0C00Y11.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/M0C00Y12.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/M0C00Y12.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/M0C00Y13.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/M0C00Y13.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/M0C00Y14.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/M0C00Y14.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/MAGE.CEL 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/MAGE00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/MAGIC.DEF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/MAIN00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/MAIN01I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/MAIN02I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/MAIN03I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/MAIN04I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/MAIN05I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/MALACATH.FLC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/MAP.PAL 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/MAP100I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/MAPS.BSA 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/MAPSAVE.SAV 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/MASK00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/MASK01I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/MASK02I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/MASK04I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/MASK05I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/MASK06I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/MASTER.DAT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/MBRD00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/MCOL00I0.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/MEHRUNES.FLC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/MENU.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/MENUFONT.DAT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/MEPHALA.FLC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/MERIDIA.FLC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/MIDI.BSA 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/MJIC00C6.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/MOLAGBAL.FLC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/MONSTER.BSA 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/MOON00I0.CFA 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/MOON01I0.CFA 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/MOVE00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/MOVE01I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/MPAINT.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/MPOP.RCI 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/MRED00I0.CFA 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/MRED00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/MRED01I0.CFA 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/MRED01I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/N0B00Y04.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/N0B00Y04.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/N0B00Y06.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/N0B00Y06.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/N0B00Y08.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/N0B00Y08.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/N0B00Y09.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/N0B00Y09.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/N0B10Y01.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/N0B10Y01.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/N0B10Y03.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/N0B10Y03.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/N0B20Y02.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/N0B20Y02.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/N0B20Y05.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/N0B20Y05.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/N0B21Y14.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/N0B21Y14.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/N0B30Y15.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/N0B30Y15.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/N0B40Y07.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/N0B40Y07.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/N0C00Y01.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/N0C00Y10.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/N0C00Y10.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/N0C00Y11.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/N0C00Y11.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/N0C00Y12.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/N0C00Y12.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/N0C00Y13.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/N0C00Y13.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/NAMEGEN.DAT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/NAMIRA.FLC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/NIGHTSKY.COL 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/NITE00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/NITE01I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/NITE02I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/NITE03I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/NOCTURNA.FLC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/NOTE.RCI 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/NOTEBOOK.TDE 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/NPAINT.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/O0A0AL00.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/O0A0AL00.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/O0B00Y00.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/O0B00Y00.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/O0B00Y01.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/O0B00Y01.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/O0B10Y00.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/O0B10Y00.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/O0B10Y03.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/O0B10Y03.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/O0B10Y05.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/O0B10Y05.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/O0B10Y06.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/O0B10Y06.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/O0B10Y07.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/O0B10Y07.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/O0B20Y02.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/O0B20Y02.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/O0B2XY04.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/O0B2XY04.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/O0B2XY08.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/O0B2XY08.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/O0B2XY09.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/O0B2XY09.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/O0B2XY10.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/O0B2XY10.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/OLDMAP.PAL 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/OLDPAL.PAL 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/OPAINT.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/OPTN00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/P0A01L00.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/P0A01L00.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/P0B00L01.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/P0B00L01.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/P0B00L03.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/P0B00L03.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/P0B00L04.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/P0B00L04.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/P0B00L06.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/P0B00L06.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/P0B01L02.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/P0B01L02.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/P0B10L07.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/P0B10L07.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/P0B10L08.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/P0B10L10.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/P0B10L10.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/P0B1XL08.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/P0B20L09.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/P0B20L09.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/PAINT.DAT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/PAL.PAL 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/PAL.RAW 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/PERYITE.FLC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/PICK00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/PICK01I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/PICK02I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/PICK03I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/PNTER.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/POIS00C6.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/POLITIC.PAK 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/POPU00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/PPAINT.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/PRIS00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/Q0C00Y01.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/Q0C00Y01.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/Q0C00Y03.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/Q0C00Y03.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/Q0C00Y04.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/Q0C00Y04.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/Q0C00Y06.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/Q0C00Y06.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/Q0C00Y07.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/Q0C00Y07.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/Q0C00Y08.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/Q0C00Y08.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/Q0C0XY02.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/Q0C0XY02.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/Q0C10Y00.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/Q0C10Y00.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/Q0C20Y02.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/Q0C20Y02.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/Q0C4XY04.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/Q0C4XY04.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/QPAINT.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C10Y00.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C10Y00.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C10Y01.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C10Y01.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C10Y02.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C10Y02.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C10Y04.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C10Y04.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C10Y05.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C10Y05.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C10Y06.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C10Y06.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C10Y08.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C10Y08.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C10Y09.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C10Y09.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C10Y10.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C10Y10.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C10Y11.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C10Y11.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C10Y12.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C10Y12.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C10Y13.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C10Y13.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C10Y14.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C10Y14.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C10Y15.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C10Y15.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C10Y17.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C10Y17.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C10Y18.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C10Y18.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C10Y20.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C10Y20.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C10Y21.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C10Y21.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C11Y03.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C11Y03.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C11Y16.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C11Y16.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C11Y19.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C11Y19.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C11Y26.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C11Y26.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C11Y27.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C11Y27.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C11Y28.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C11Y28.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C20Y07.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C20Y07.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C20Y22.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C20Y22.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C30Y25.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C30Y25.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C40Y23.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C4XY23.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C4XY23.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C60Y24.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/R0C60Y24.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/RAIN.LGT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/REGFLAT.BIN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/REPORT.EXE 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/REPR01I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/REPR02I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/REST00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/REST01I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/REST02I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/ROGUE.CEL 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/RPAINT.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/RUMOR.DAT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000001.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000001.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000002.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000002.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000003.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000003.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000004.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000004.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000005.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000005.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000006.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000006.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000007.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000007.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000008.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000008.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000009.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000009.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000010.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000010.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000011.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000011.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000012.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000012.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000013.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000013.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000015.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000015.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000016.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000016.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000017.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000017.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000018.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000018.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000020.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000020.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000021.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000021.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000022.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000022.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000100.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000100.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000101.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000101.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000102.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000102.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000103.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000103.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000104.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000104.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000106.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000106.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000107.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000107.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000500.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000500.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000977.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000977.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000988.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000988.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000999.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/S0000999.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SANGUINE.FLC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SAVE00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SCBG00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SCBG01I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SCBG02I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SCBG03I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SCBG04I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SCBG05I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SCBG06I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SCBG07I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SCBG08I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SCRL00I0.GFX 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SCRL01I0.GFX 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SCRL04I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SCRL05I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SCRL07I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SCRL08I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SCRL09I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SCRL10I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SCRL11I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SCRL12I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SCRL13I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SCRL14I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SHADE.000 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SHADE.001 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SHEOGRTH.FLC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SHOK00C6.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SHOP00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SHOP01I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SHOP01I1.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SHOP02I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SHOP02I1.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SHOP03I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SHOP03I1.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SHOP04I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SHOP04I1.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SKY00.DAT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SKY01.DAT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SKY02.DAT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SKY03.DAT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SKY04.DAT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SKY05.DAT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SKY06.DAT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SKY07.DAT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SKY08.DAT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SKY09.DAT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SKY10.DAT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SKY11.DAT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SKY12.DAT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SKY13.DAT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SKY14.DAT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SKY15.DAT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SKY16.DAT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SKY17.DAT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SKY18.DAT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SKY19.DAT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SKY20.DAT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SKY21.DAT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SKY22.DAT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SKY23.DAT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SKY24.DAT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SKY25.DAT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SKY26.DAT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SKY27.DAT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SKY28.DAT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SKY29.DAT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SKY30.DAT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SKY31.DAT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SKYPAL.DAT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SPAINT.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SPBK00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SPBK01I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SPELLS.STD 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SPOP.RCI 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/SUN_00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/T0C00Y00.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/T0C00Y00.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TALK00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TALK01I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TALK02I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TALK03I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TAMRIEL.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TAMRIEL2.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TELE00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXT.RSC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.000 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.001 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.002 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.003 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.004 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.005 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.006 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.007 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.008 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.009 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.010 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.011 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.012 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.013 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.014 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.015 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.016 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.017 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.018 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.019 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.020 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.022 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.023 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.024 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.025 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.026 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.027 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.028 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.029 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.030 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.031 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.033 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.035 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.036 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.037 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.038 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.039 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.040 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.041 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.042 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.043 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.044 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.045 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.046 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.047 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.048 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.049 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.050 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.053 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.054 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.055 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.056 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.057 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.058 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.059 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.060 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.061 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.062 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.063 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.064 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.065 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.066 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.067 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.068 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.069 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.070 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.071 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.072 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.073 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.074 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.075 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.076 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.077 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.079 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.080 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.081 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.082 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.083 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.084 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.085 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.086 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.087 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.088 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.089 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.090 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.091 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.092 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.093 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.094 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.095 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.096 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.097 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.098 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.099 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.100 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.101 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.102 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.103 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.104 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.105 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.106 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.107 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.108 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.109 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.110 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.111 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.112 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.113 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.114 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.115 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.116 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.117 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.118 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.119 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.120 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.121 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.122 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.123 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.124 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.125 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.126 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.127 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.128 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.129 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.130 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.131 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.132 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.133 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.134 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.135 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.136 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.137 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.138 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.139 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.140 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.141 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.142 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.143 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.144 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.145 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.146 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.147 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.148 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.149 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.150 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.151 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.152 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.153 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.154 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.155 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.156 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.157 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.158 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.159 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.160 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.161 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.162 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.163 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.164 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.165 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.166 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.167 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.168 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.169 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.170 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.171 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.172 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.173 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.174 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.175 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.176 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.177 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.178 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.179 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.180 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.181 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.182 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.183 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.184 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.185 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.186 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.190 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.194 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.195 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.197 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.198 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.199 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.200 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.201 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.202 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.203 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.204 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.205 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.206 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.207 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.208 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.209 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.210 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.211 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.212 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.213 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.214 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.215 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.216 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.217 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.218 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.233 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.234 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.235 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.236 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.237 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.238 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.239 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.240 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.241 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.242 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.245 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.246 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.247 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.248 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.249 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.250 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.251 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.252 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.253 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.254 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.255 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.256 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.257 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.258 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.259 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.260 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.261 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.262 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.263 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.264 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.265 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.266 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.267 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.268 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.269 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.270 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.271 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.272 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.273 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.274 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.275 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.276 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.277 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.278 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.279 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.280 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.281 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.282 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.283 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.284 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.285 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.286 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.287 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.288 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.289 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.290 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.291 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.292 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.293 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.295 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.296 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.297 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.298 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.299 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.300 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.301 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.302 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.303 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.304 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.305 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.306 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.307 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.308 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.309 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.310 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.311 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.312 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.313 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.314 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.315 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.316 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.317 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.318 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.319 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.320 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.321 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.322 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.323 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.324 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.325 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.326 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.327 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.328 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.329 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.330 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.331 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.332 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.333 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.334 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.335 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.336 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.337 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.338 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.339 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.340 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.341 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.342 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.343 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.344 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.345 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.346 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.347 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.348 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.349 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.350 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.351 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.352 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.353 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.354 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.355 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.356 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.357 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.358 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.359 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.360 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.361 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.362 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.363 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.364 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.365 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.366 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.368 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.369 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.370 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.371 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.372 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.374 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.375 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.376 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.377 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.378 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.379 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.380 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.381 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.382 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.383 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.384 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.385 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.386 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.387 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.388 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.389 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.390 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.391 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.392 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.393 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.394 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.395 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.396 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.397 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.398 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.399 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.400 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.401 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.402 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.403 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.404 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.405 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.406 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.407 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.408 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.409 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.410 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.411 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.412 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.413 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.414 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.415 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.416 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.417 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.418 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.419 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.420 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.422 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.423 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.424 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.425 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.426 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.427 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.428 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.429 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.430 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.431 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.432 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.433 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.434 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.435 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.436 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.437 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.438 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.439 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.440 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.442 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.443 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.444 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.445 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.446 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.447 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.448 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.449 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.450 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.451 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.452 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.453 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.454 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.455 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.456 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.457 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.458 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.459 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.460 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.461 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.462 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.463 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.464 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.465 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.466 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.467 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.468 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.469 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.470 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.473 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.474 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.475 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.476 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.477 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.478 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.479 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.480 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.481 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.482 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.483 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.484 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.485 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.486 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.487 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.488 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.489 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.490 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.491 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.492 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.493 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.494 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.495 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.500 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.501 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.502 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.503 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.504 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.505 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.506 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.507 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.508 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.509 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.510 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TEXTURE.511 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TFAC00I0.RCI 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TITL00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TMAP00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TMPL00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TMPL01I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TOWN00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TPAINT.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TRAV00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TRAV01I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TRAV01I1.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TRAV02I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TRAV0I00.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TRAV0I01.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TRAV0I03.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TRAV0I04.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TRAVAI05.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TRAVBI05.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TRAVCI05.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TRAVDI05.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/TVRN00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/U0C00Y00.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/U0C00Y00.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/UPAINT.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/V0C00Y00.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/V0C00Y00.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/VAERNIMA.FLC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/VAMP00I0.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/VERSTR.DAT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/VIEWPLYR.DAT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/VPAINT.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/W0C00Y00.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/W0C00Y00.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/WARRIOR.CEL 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/WATER.TBL 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/WEAPO101.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/WEAPO102.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/WEAPO104.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/WEAPO105.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/WEAPO106.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/WEAPO107.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/WEAPO108.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/WEAPON00.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/WEAPON01.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/WEAPON02.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/WEAPON03.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/WEAPON04.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/WEAPON05.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/WEAPON06.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/WEAPON07.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/WEAPON08.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/WEAPON09.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/WEAPON10.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/WEAPON11.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/WERE00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/WERE01I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/WOLF00I0.IMG 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/WOODS.WLD 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/WPAINT.CIF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/X0C00Y00.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/X0C00Y00.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/Y0C00Y00.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/Y0C00Y00.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/Z0C00Y00.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/Z0C00Y00.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/_BRISIEN.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/_BRISIEN.QRC 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/_TUTOR__.QBN 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/_TUTOR__.QRC 
+
+
+		 *** DIRECTORY PATH: /home/lucas/Games/Daggerfall files/DF/DAGGER/SAVE0 ***
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/SAVE0/AT50050.AMF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/SAVE0/AT65535.AMF 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/SAVE0/BIO.DAT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/SAVE0/IMAGE.RAW 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/SAVE0/MAPSAVE.SAV 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/SAVE0/RUMOR.DAT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/SAVE0/SAVENAME.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/SAVE0/SAVETREE.DAT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/SAVE0/SAVEVARS.DAT 
+
+
+		 *** DIRECTORY PATH: /home/lucas/Games/Daggerfall files/DF/DAGGER/SAVE1 ***
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/SAVE1/steam_autocloud.vdf 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/SAVE1/temp.txt 
+
+
+		 *** DIRECTORY PATH: /home/lucas/Games/Daggerfall files/DF/DAGGER/SAVE2 ***
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/SAVE2/steam_autocloud.vdf 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/SAVE2/temp.txt 
+
+
+		 *** DIRECTORY PATH: /home/lucas/Games/Daggerfall files/DF/DAGGER/SAVE3 ***
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/SAVE3/steam_autocloud.vdf 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/SAVE3/temp.txt 
+
+
+		 *** DIRECTORY PATH: /home/lucas/Games/Daggerfall files/DF/DAGGER/SAVE4 ***
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/SAVE4/steam_autocloud.vdf 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/SAVE4/temp.txt 
+
+
+		 *** DIRECTORY PATH: /home/lucas/Games/Daggerfall files/DF/DAGGER/SAVE5 ***
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/SAVE5/steam_autocloud.vdf 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/SAVE5/temp.txt 
+
+
+		 *** DIRECTORY PATH: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS ***
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00000.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00001.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00002.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00003.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00004.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00005.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00006.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00007.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00008.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00009.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00020.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00021.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00022.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00025.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00026.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00027.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00028.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00029.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00030.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00031.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00032.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00033.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00034.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00035.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00036.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00037.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00038.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00039.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00040.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00041.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00042.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00043.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00044.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00045.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00046.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00047.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00048.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00049.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00050.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00051.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00052.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00053.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00054.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00055.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00056.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00057.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00058.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00059.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00060.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00061.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00062.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00063.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00064.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00065.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00066.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00067.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00068.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00069.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00070.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00071.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00072.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00073.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00074.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00075.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00076.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00077.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00078.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00079.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00080.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00081.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00082.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00083.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00084.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00085.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00086.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00087.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00088.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00089.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00100.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00101.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00102.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00103.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00104.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00105.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00106.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00107.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00108.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00109.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00110.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK00111.TXT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/BOOKS/BOK10000.TXT 
+
+
+		 *** DIRECTORY PATH: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/MAPS ***
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/MAPS/COPYFILE.DAT 
+File Path: /home/lucas/Games/Daggerfall files/DF/DAGGER/ARENA2/MAPS/MAPSAVE.SAV 
+### END FILE CHECK ###
+
+
+
+
+
+
+
+
+
+
+
+

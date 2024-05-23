@@ -1,0 +1,6 @@
+2024/05/22-21:41:46.044 b7f6 Reusing MANIFEST /home/lucas/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/05/22-21:41:46.045 b7f6 Recovering log #49
+2024/05/22-21:41:46.045 b7f6 Reusing old log /home/lucas/.config/discord/Local Storage/leveldb/000049.log 
+2024/05/22-21:43:51.662 b7f6 Level-0 table #53: started
+2024/05/22-21:43:51.677 b7f6 Level-0 table #53: 2363909 bytes OK
+2024/05/22-21:43:51.682 b7f6 Delete type=0 #49

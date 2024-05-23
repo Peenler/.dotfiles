@@ -1,0 +1,4 @@
+2024-01-24 19:48:49.052 [info] update#ctor - updates are disabled as there is no update URL
+2024-01-24 19:48:50.081 [info] Starting extension host with pid 33568 (fork() took 7 ms).
+2024-01-24 19:49:04.505 [info] Waiting for extension host with pid 33568 to exit.
+2024-01-24 19:49:04.562 [info] Extension host with pid 33568 exited with code: 0, signal: null.

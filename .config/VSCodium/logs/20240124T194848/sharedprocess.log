@@ -1,0 +1,31 @@
+2024-01-24 19:48:51.170 [info] Starting worker process with pid 33639 (type: fileWatcher, window: 1).
+2024-01-24 19:48:54.687 [info] Getting Manifest... ecmel.vscode-html-css
+2024-01-24 19:48:54.690 [info] Getting Manifest... sugatoray.vscode-git-extension-pack
+2024-01-24 19:48:55.357 [info] Installing extension: ecmel.vscode-html-css
+2024-01-24 19:48:55.363 [info] Installing extension: sugatoray.vscode-git-extension-pack
+2024-01-24 19:48:55.529 [info] Getting Manifest... ahmadawais.emoji-log-vscode
+2024-01-24 19:48:55.682 [info] Getting Manifest... arturock.gitstash
+2024-01-24 19:48:55.877 [info] Installing extension: ahmadawais.emoji-log-vscode sugatoray.vscode-git-extension-pack
+2024-01-24 19:48:55.878 [info] Installing extension: arturock.gitstash sugatoray.vscode-git-extension-pack
+2024-01-24 19:48:55.895 [info] Extension signature verification: ecmel.vscode-html-css. Verification status: Unverified.
+2024-01-24 19:48:56.007 [info] Extracted extension to /home/lucas/.vscode-oss/extensions/.4ceb9a40-c154-42a7-a233-95f1d444ac80: ecmel.vscode-html-css
+2024-01-24 19:48:56.011 [info] Renamed to /home/lucas/.vscode-oss/extensions/ecmel.vscode-html-css-2.0.7-universal
+2024-01-24 19:48:56.013 [info] Extracting extension completed. ecmel.vscode-html-css
+2024-01-24 19:48:56.027 [info] Extension installed successfully: ecmel.vscode-html-css
+2024-01-24 19:48:56.029 [info] Marked extension as uninstalled ecmel.vscode-html-css-2.0.6-universal
+2024-01-24 19:48:56.589 [info] Extension signature verification: arturock.gitstash. Verification status: Unverified.
+2024-01-24 19:48:56.623 [info] Extracted extension to /home/lucas/.vscode-oss/extensions/.9dfdecd2-6e95-40e6-b375-fddb23baa64f: arturock.gitstash
+2024-01-24 19:48:56.627 [info] Renamed to /home/lucas/.vscode-oss/extensions/arturock.gitstash-5.1.0-universal
+2024-01-24 19:48:56.628 [info] Extracting extension completed. arturock.gitstash
+2024-01-24 19:48:57.751 [info] Extension signature verification: ahmadawais.emoji-log-vscode. Verification status: Unverified.
+2024-01-24 19:48:57.766 [info] Extracted extension to /home/lucas/.vscode-oss/extensions/.f62ba0c2-9505-4a4d-bb71-f7d6d360e9d0: ahmadawais.emoji-log-vscode
+2024-01-24 19:48:57.769 [info] Renamed to /home/lucas/.vscode-oss/extensions/ahmadawais.emoji-log-vscode-1.3.0-universal
+2024-01-24 19:48:57.769 [info] Extracting extension completed. ahmadawais.emoji-log-vscode
+2024-01-24 19:48:58.281 [info] Extension signature verification: sugatoray.vscode-git-extension-pack. Verification status: Unverified.
+2024-01-24 19:48:58.292 [info] Extracted extension to /home/lucas/.vscode-oss/extensions/.67bfb8bc-bb61-4df1-a6b1-020defb0a9d7: sugatoray.vscode-git-extension-pack
+2024-01-24 19:48:58.295 [info] Renamed to /home/lucas/.vscode-oss/extensions/sugatoray.vscode-git-extension-pack-1.2.0-universal
+2024-01-24 19:48:58.297 [info] Extracting extension completed. sugatoray.vscode-git-extension-pack
+2024-01-24 19:48:58.307 [info] Extension installed successfully: arturock.gitstash
+2024-01-24 19:48:58.308 [info] Extension installed successfully: ahmadawais.emoji-log-vscode
+2024-01-24 19:48:58.308 [info] Extension installed successfully: sugatoray.vscode-git-extension-pack
+2024-01-24 19:48:58.310 [info] Marked extension as uninstalled sugatoray.vscode-git-extension-pack-1.1.1-universal

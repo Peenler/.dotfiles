@@ -1,0 +1,6 @@
+2024-02-14 18:42:25.654 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/lucas/FlipperFiles/nutting.ir","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2024-02-14 18:42:25.957 [error] Extension 'ms-toolsai.jupyter' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): notebookControllerKind, notebookDeprecated, notebookMessaging, notebookMime, notebookCellExecutionState, portsAttributes, quickPickSortByLabel, notebookKernelSource, interactiveWindow, notebookControllerAffinityHidden, quickPickItemTooltip
+product.json (WINS): notebookControllerKind, notebookDeprecated, notebookMessaging, notebookMime, notebookCellExecutionState, portsAttributes, quickPickSortByLabel, notebookKernelSource, interactiveWindow, notebookControllerAffinityHidden, contribNotebookStaticPreloads
+2024-02-14 18:42:26.312 [error] [xabikos.JavaScriptSnippets]: Unknown language in `contributes.JavaScriptSnippets.language`. Provided value: vue
+2024-02-14 18:42:28.887 [info] [perf] Render performance baseline is 21ms

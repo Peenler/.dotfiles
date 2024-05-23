@@ -1,0 +1,11 @@
+STRING ```timeline-labeled
+ENTER
+STRING [line-2, body-1]
+ENTER
+STRING date:
+ENTER
+STRING title:
+ENTER
+STRING content:
+ENTER
+STRING ```

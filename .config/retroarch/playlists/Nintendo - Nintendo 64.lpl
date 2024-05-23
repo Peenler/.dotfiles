@@ -1,0 +1,35 @@
+{
+  "version": "1.5",
+  "default_core_path": "",
+  "default_core_name": "",
+  "label_display_mode": 0,
+  "right_thumbnail_mode": 0,
+  "left_thumbnail_mode": 0,
+  "sort_mode": 0,
+  "items": [
+    {
+      "path": "/home/lucas/Games/MMR/Legend of Zelda, The - Majora's Mask (USA).z64",
+      "label": "Legend of Zelda, The - Majora's Mask (USA)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "B428D8A7|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/lucas/downloads/Legend of Zelda, The - Majora's Mask (USA).zip#Legend of Zelda, The - Majora's Mask (USA).z64",
+      "label": "Legend of Zelda, The - Majora's Mask (USA)",
+      "core_path": "/home/lucas/.config/retroarch/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "B428D8A7|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    },
+    {
+      "path": "/home/lucas/downloads/Legend of Zelda, The - Ocarina of Time (USA) (Rev 2).zip#Legend of Zelda, The - Ocarina of Time (USA) (Rev 2).z64",
+      "label": "Legend of Zelda, The - Ocarina of Time (USA) (Rev 2)",
+      "core_path": "/home/lucas/.config/retroarch/cores/mupen64plus_next_libretro.so",
+      "core_name": "Nintendo - Nintendo 64 (Mupen64Plus-Next)",
+      "crc32": "32120C23|crc",
+      "db_name": "Nintendo - Nintendo 64.lpl"
+    }
+  ]
+}
