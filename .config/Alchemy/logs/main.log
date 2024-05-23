@@ -1,5 +1,0 @@
-[2024-05-21 22:29:37.128] [info]  Checking for update
-[2024-05-21 22:29:37.406] [error] Failed to login to Discord RPC: Error: Could not connect
-[2024-05-21 22:29:37.420] [info]  Generated new staging user ID: d846befe-bd01-567e-bd41-b37fc7be8d74
-[2024-05-21 22:29:37.678] [info]  Update for version 1.2.4 is not available (latest version: 1.2.4, downgrade is allowed).
-[2024-05-21 22:29:37.679] [debug] checkForUpdatesAndNotify called, downloadPromise is null
