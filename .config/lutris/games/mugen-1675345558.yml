@@ -1,7 +1,0 @@
-game:
-  exe: /home/lucas/Downloads/mugen-1.1b1/mugen.exe
-system: {}
-wine:
-  fsync: true
-  system_winetricks: false
-  version: lutris-GE-Proton7-35-x86_64
