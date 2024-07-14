@@ -1,4 +1,0 @@
-2024-01-18 18:39:10.692 [info] update#ctor - updates are disabled as there is no update URL
-2024-01-18 18:39:12.561 [info] Starting extension host with pid 33029 (fork() took 14 ms).
-2024-01-18 18:39:49.346 [info] Waiting for extension host with pid 33029 to exit.
-2024-01-18 18:39:49.373 [info] Extension host with pid 33029 exited with code: 0, signal: null.

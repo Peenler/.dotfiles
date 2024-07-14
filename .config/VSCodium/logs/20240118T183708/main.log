@@ -1,4 +1,0 @@
-2024-01-18 18:37:08.882 [info] update#ctor - updates are disabled as there is no update URL
-2024-01-18 18:37:10.137 [info] Starting extension host with pid 31780 (fork() took 8 ms).
-2024-01-18 18:37:23.231 [info] Waiting for extension host with pid 31780 to exit.
-2024-01-18 18:37:23.274 [info] Extension host with pid 31780 exited with code: 0, signal: null.

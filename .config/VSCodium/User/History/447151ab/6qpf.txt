@@ -1,6 +1,0 @@
-STRING ```timeline-labeled
-[line-2, body-1]
-date:
-title:
-content:
-```
