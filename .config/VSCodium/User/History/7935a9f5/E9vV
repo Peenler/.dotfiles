@@ -1,4 +1,0 @@
-#!/usr/bin/bash
-swww init
-swww img $config/wallpapers/3492868.gif & --transition-type grow --transition-pos "$(hyprctl cursorpos)" --transition-duration 3
-

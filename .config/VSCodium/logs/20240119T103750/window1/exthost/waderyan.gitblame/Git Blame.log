@@ -1,4 +1,0 @@
-2024-01-19 10:37:52.794 [info] git rev-parse --git-dir
-2024-01-19 10:37:52.794 [info] git rev-parse --git-dir
-2024-01-19 10:37:52.794 [info] git blame -C --incremental -- /home/lucas/.config/ranger/rifle.conf
-2024-01-19 10:37:52.794 [info] Blamed "/home/lucas/.config/ranger/rifle.conf"

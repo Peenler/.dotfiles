@@ -1,2 +1,0 @@
-#!/usr/bin/bash
-waybar -c $HOME/.config/hypr/component/waybar/ygdrasil/config -s $HOME/.config/hypr/component/waybar/ygdrasil/style.css &

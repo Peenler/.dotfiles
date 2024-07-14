@@ -1,8 +1,0 @@
-{
-    "workbench.colorTheme": "Flare Theme",
-    "workbench.startupEditor": "none",
-    "security.workspace.trust.untrustedFiles": "open",
-    "security.workspace.trust.enabled": false,
-    "window.openFilesInNewWindow": "on",
-    "git.openRepositoryInParentFolders": "never"
-}
